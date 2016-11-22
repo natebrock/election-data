@@ -1,0 +1,4883 @@
+{
+	"year": 2016,
+	"winner": {
+		"nameLast": "Obama",
+		"nameFirst": "Barack"
+	},
+	"votesCast": 129085410,
+	"states": [
+		{
+			"state": "Alabama",
+			"stateAbv": "AL",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "9"
+			},
+			"electoralVotesTotal": "9",
+			"popularVoteTotal": 2074338,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1255925,
+					"percentVotes": 60.55
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 795696,
+					"percentVotes": 38.36
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "IND",
+					"votes": 12328,
+					"percentVotes": 0.59
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 4011,
+					"percentVotes": 0.19
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "IND",
+					"votes": 3397,
+					"percentVotes": 0.16
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil H., Jr.",
+					"nameLast": "Goode",
+					"party": "IND",
+					"votes": 2981,
+					"percentVotes": 0.14
+				}
+			]
+		},
+		{
+			"state": "Alaska",
+			"stateAbv": "AK",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "3"
+			},
+			"electoralVotesTotal": "3",
+			"popularVoteTotal": 300495,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 164676,
+					"percentVotes": 54.8
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 122640,
+					"percentVotes": 40.81
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 7392,
+					"percentVotes": 2.46
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 2917,
+					"percentVotes": 0.97
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 2870,
+					"percentVotes": 0.96
+				}
+			]
+		},
+		{
+			"state": "Arizona",
+			"stateAbv": "AZ",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "11"
+			},
+			"electoralVotesTotal": "11",
+			"popularVoteTotal": 2299254,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1233654,
+					"percentVotes": 53.65
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 1025232,
+					"percentVotes": 44.59
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 32100,
+					"percentVotes": 1.4
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 7816,
+					"percentVotes": 0.34
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 289,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "W",
+					"votes": 119,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 17,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005245",
+					"nameFirst": "Will",
+					"nameLast": "Christensen",
+					"party": "W",
+					"votes": 14,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002218",
+					"nameFirst": "Dennis",
+					"nameLast": "Knill",
+					"party": "W",
+					"votes": 7,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002630",
+					"nameFirst": "Sheila \\\"Samm\\\"",
+					"nameLast": "Tittle",
+					"party": "W",
+					"votes": 6,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Arkansas",
+			"stateAbv": "AR",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "6"
+			},
+			"electoralVotesTotal": "6",
+			"popularVoteTotal": 1069468,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 647744,
+					"percentVotes": 60.57
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 394409,
+					"percentVotes": 36.88
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 16276,
+					"percentVotes": 1.52
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 9305,
+					"percentVotes": 0.87
+				},
+				{
+					"feicd": "P20004636",
+					"nameFirst": "Peta",
+					"nameLast": "Lindsay",
+					"party": "SLP",
+					"votes": 1734,
+					"percentVotes": 0.16
+				}
+			]
+		},
+		{
+			"state": "California",
+			"stateAbv": "CA",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "55"
+			},
+			"electoralVotesTotal": "55",
+			"popularVoteTotal": 13038547,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 7854285,
+					"percentVotes": 60.24
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 4839958,
+					"percentVotes": 37.12
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 143221,
+					"percentVotes": 1.1
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 85638,
+					"percentVotes": 0.66
+				},
+				{
+					"feicd": "P20002804",
+					"nameFirst": "Roseanne",
+					"nameLast": "Barr",
+					"party": "PFP",
+					"votes": 53824,
+					"percentVotes": 0.41
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Thomas",
+					"nameLast": "Hoefling",
+					"party": "AIP",
+					"votes": 38372,
+					"percentVotes": 0.29
+				},
+				{
+					"feicd": "P80000748",
+					"nameFirst": "Ron",
+					"nameLast": "Paul",
+					"party": "W",
+					"votes": 21461,
+					"percentVotes": 0.16
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "W",
+					"votes": 992,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 503,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003968",
+					"nameFirst": "Stewart",
+					"nameLast": "Alexander",
+					"party": "W",
+					"votes": 82,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004677",
+					"nameFirst": "Jerry",
+					"nameLast": "White",
+					"party": "W",
+					"votes": 79,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P60004454",
+					"nameFirst": "James",
+					"nameLast": "Harris",
+					"party": "W",
+					"votes": 72,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004651",
+					"nameFirst": "Stephen",
+					"nameLast": "Durham",
+					"party": "W",
+					"votes": 54,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002630",
+					"nameFirst": "Sheila \\\"Samm\\\"",
+					"nameLast": "Tittle",
+					"party": "W",
+					"votes": 6,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Colorado",
+			"stateAbv": "CO",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "9"
+			},
+			"electoralVotesTotal": "9",
+			"popularVoteTotal": 2569522,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 1323102,
+					"percentVotes": 51.49
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1185243,
+					"percentVotes": 46.13
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 35545,
+					"percentVotes": 1.38
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 7508,
+					"percentVotes": 0.29
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil H., Jr.",
+					"nameLast": "Goode",
+					"party": "AMC",
+					"votes": 6234,
+					"percentVotes": 0.24
+				},
+				{
+					"feicd": "P20002804",
+					"nameFirst": "Roseanne",
+					"nameLast": "Barr",
+					"party": "PFP",
+					"votes": 5059,
+					"percentVotes": 0.2
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill",
+					"nameLast": "Reed",
+					"party": "UN",
+					"votes": 2589,
+					"percentVotes": 0.1
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "JUS",
+					"votes": 1260,
+					"percentVotes": 0.05
+				},
+				{
+					"feicd": "P20002630",
+					"nameFirst": "Sheila 'Samm'",
+					"nameLast": "Tittle",
+					"party": "WTP",
+					"votes": 792,
+					"percentVotes": 0.03
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "AMP",
+					"votes": 679,
+					"percentVotes": 0.03
+				},
+				{
+					"feicd": "P80005572",
+					"nameFirst": "Gloria",
+					"nameLast": "La Riva",
+					"party": "SLP",
+					"votes": 317,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20003968",
+					"nameFirst": "Stewart",
+					"nameLast": "Alexander",
+					"party": "SUS",
+					"votes": 308,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20004693",
+					"nameFirst": "Merlin",
+					"nameLast": "Miller",
+					"party": "ATP",
+					"votes": 266,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P80005655",
+					"nameFirst": "Thomas Robert",
+					"nameLast": "Stevens",
+					"party": "OBJ",
+					"votes": 235,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P60004454",
+					"nameFirst": "James",
+					"nameLast": "Harris",
+					"party": "SWP",
+					"votes": 192,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20004677",
+					"nameFirst": "Jerry",
+					"nameLast": "White",
+					"party": "SEP",
+					"votes": 189,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20002424",
+					"nameFirst": "Randall",
+					"nameLast": "Terry",
+					"party": "W",
+					"votes": 4,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Connecticut",
+			"stateAbv": "CT",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "7"
+			},
+			"electoralVotesTotal": "7",
+			"popularVoteTotal": 1558960,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 905083,
+					"percentVotes": 58.06
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 634892,
+					"percentVotes": 40.73
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 12580,
+					"percentVotes": 0.81
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "IP",
+					"votes": 5487,
+					"percentVotes": 0.35
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "W",
+					"votes": 863,
+					"percentVotes": 0.06
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "W",
+					"votes": 25,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Gerald",
+					"nameLast": "Warner",
+					"party": "W",
+					"votes": 19,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P60004454",
+					"nameFirst": "James E.",
+					"nameLast": "Harris",
+					"party": "W",
+					"votes": 5,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Raymond",
+					"nameLast": "Sizemore",
+					"party": "W",
+					"votes": 5,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004651",
+					"nameFirst": "Stephen",
+					"nameLast": "Durham",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Delaware",
+			"stateAbv": "DE",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "3"
+			},
+			"electoralVotesTotal": "3",
+			"popularVoteTotal": 413921,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 242584,
+					"percentVotes": 58.61
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 165484,
+					"percentVotes": 39.98
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 3882,
+					"percentVotes": 0.94
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 1940,
+					"percentVotes": 0.47
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 23,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "W",
+					"votes": 7,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "District of Columbia",
+			"stateAbv": "DC",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "3"
+			},
+			"electoralVotesTotal": "3",
+			"popularVoteTotal": 293764,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 267070,
+					"percentVotes": 90.91
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 21381,
+					"percentVotes": 7.28
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "DCG",
+					"votes": 2458,
+					"percentVotes": 0.84
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 2083,
+					"percentVotes": 0.71
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 772,
+					"percentVotes": 0.26
+				}
+			]
+		},
+		{
+			"state": "Florida",
+			"stateAbv": "FL",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "29"
+			},
+			"electoralVotesTotal": "29",
+			"popularVoteTotal": 8474179,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 4237756,
+					"percentVotes": 50.01
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 4163447,
+					"percentVotes": 49.13
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LBF",
+					"votes": 44726,
+					"percentVotes": 0.53
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GPF",
+					"votes": 8947,
+					"percentVotes": 0.11
+				},
+				{
+					"feicd": "P20002804",
+					"nameFirst": "Roseanne",
+					"nameLast": "Barr",
+					"party": "PFF",
+					"votes": 8154,
+					"percentVotes": 0.1
+				},
+				{
+					"feicd": "P80005655",
+					"nameFirst": "Thomas Robert",
+					"nameLast": "Stevens",
+					"party": "OBF",
+					"votes": 3856,
+					"percentVotes": 0.05
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil H., Jr.",
+					"nameLast": "Goode",
+					"party": "CPF",
+					"votes": 2607,
+					"percentVotes": 0.03
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "JPF",
+					"votes": 1754,
+					"percentVotes": 0.02
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "APF",
+					"votes": 946,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20002697",
+					"nameFirst": "Andre",
+					"nameLast": "Barnett",
+					"party": "REF",
+					"votes": 820,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20003968",
+					"nameFirst": "Stewart",
+					"nameLast": "Alexander",
+					"party": "SFL",
+					"votes": 799,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20004636",
+					"nameFirst": "Peta",
+					"nameLast": "Lindsay",
+					"party": "SLF",
+					"votes": 322,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 36,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005252",
+					"nameFirst": "Richard",
+					"nameLast": "Duncan",
+					"party": "W",
+					"votes": 3,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004651",
+					"nameFirst": "Stephen G.",
+					"nameLast": "Durham",
+					"party": "W",
+					"votes": 3,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002648",
+					"nameFirst": "Erin Kent",
+					"nameLast": "Magee",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Andrew Charles",
+					"nameLast": "Coniglio",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Georgia",
+			"stateAbv": "GA",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "16"
+			},
+			"electoralVotesTotal": "16",
+			"popularVoteTotal": 3900050,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 2078688,
+					"percentVotes": 53.3
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 1773827,
+					"percentVotes": 45.48
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 45324,
+					"percentVotes": 1.16
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "W",
+					"votes": 1516,
+					"percentVotes": 0.04
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 432,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "W",
+					"votes": 154,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002903",
+					"nameFirst": "Darrell",
+					"nameLast": "Hykes",
+					"party": "W",
+					"votes": 55,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Jill",
+					"nameLast": "Reid",
+					"party": "W",
+					"votes": 30,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P60004454",
+					"nameFirst": "James",
+					"nameLast": "Harris",
+					"party": "W",
+					"votes": 21,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "David C.",
+					"nameLast": "Byrne",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002648",
+					"nameFirst": "Erin Kent",
+					"nameLast": "Magee",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Hawaii",
+			"stateAbv": "HI",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "4"
+			},
+			"electoralVotesTotal": "4",
+			"popularVoteTotal": 434697,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 306658,
+					"percentVotes": 70.55
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 121015,
+					"percentVotes": 27.84
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 3840,
+					"percentVotes": 0.88
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 3184,
+					"percentVotes": 0.73
+				}
+			]
+		},
+		{
+			"state": "Idaho",
+			"stateAbv": "ID",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "4"
+			},
+			"electoralVotesTotal": "4",
+			"popularVoteTotal": 652274,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 420911,
+					"percentVotes": 64.53
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 212787,
+					"percentVotes": 32.62
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 9453,
+					"percentVotes": 1.45
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "IND",
+					"votes": 4402,
+					"percentVotes": 0.67
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "IND",
+					"votes": 2499,
+					"percentVotes": 0.38
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil H.",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 2222,
+					"percentVotes": 0.34
+				}
+			]
+		},
+		{
+			"state": "Illinois",
+			"stateAbv": "IL",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "20"
+			},
+			"electoralVotesTotal": "20",
+			"popularVoteTotal": 5242014,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 3019512,
+					"percentVotes": 57.6
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 2135216,
+					"percentVotes": 40.73
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 56229,
+					"percentVotes": 1.07
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 30222,
+					"percentVotes": 0.58
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil / Clymer, Jim",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 233,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "W",
+					"votes": 185,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 182,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 121,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "W",
+					"votes": 22,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004974",
+					"nameFirst": "Michael",
+					"nameLast": "Hawkins",
+					"party": "W",
+					"votes": 16,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Tom",
+					"nameLast": "Cary",
+					"party": "W",
+					"votes": 14,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill / Cary, Tom",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 10,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004677",
+					"nameFirst": "Jerry",
+					"nameLast": "White",
+					"party": "W",
+					"votes": 8,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003836",
+					"nameFirst": "Cecil",
+					"nameLast": "Roth",
+					"party": "W",
+					"votes": 5,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Phyllis",
+					"nameLast": "Scherrer",
+					"party": "W",
+					"votes": 5,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Jim",
+					"nameLast": "Clymer",
+					"party": "W",
+					"votes": 4,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Barbara",
+					"nameLast": "Prokopich",
+					"party": "W",
+					"votes": 4,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004677",
+					"nameFirst": "Jerry / Scherrer, Phyllis",
+					"nameLast": "White",
+					"party": "W",
+					"votes": 4,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom / Ellis, Jonathan",
+					"nameLast": "Hoefling",
+					"party": "W",
+					"votes": 3,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002218",
+					"nameFirst": "Dennis",
+					"nameLast": "Knill",
+					"party": "W",
+					"votes": 3,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Roy Wayne",
+					"nameLast": "Tyree",
+					"party": "W",
+					"votes": 3,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002580",
+					"nameFirst": "Paul",
+					"nameLast": "Chehade",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002580",
+					"nameFirst": "Paul / McAllister, Steve",
+					"nameLast": "Chehade",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004651",
+					"nameFirst": "Stephen / Lopez, Christina",
+					"nameLast": "Durham",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Lynn",
+					"nameLast": "Maxwell",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "James T.",
+					"nameLast": "Struck",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004651",
+					"nameFirst": "Stephen",
+					"nameLast": "Durham",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Jonathan",
+					"nameLast": "Ellis",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Stephen James",
+					"nameLast": "Frost",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Indiana",
+			"stateAbv": "IN",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "11"
+			},
+			"electoralVotesTotal": "11",
+			"popularVoteTotal": 2624534,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1420543,
+					"percentVotes": 54.13
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 1152887,
+					"percentVotes": 43.93
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 50111,
+					"percentVotes": 1.91
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "W",
+					"votes": 625,
+					"percentVotes": 0.02
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil H., Jr.",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 290,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "W",
+					"votes": 35,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003968",
+					"nameFirst": "Stewart",
+					"nameLast": "Alexander",
+					"party": "W",
+					"votes": 17,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 8,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002424",
+					"nameFirst": "Randall A.",
+					"nameLast": "Terry",
+					"party": "W",
+					"votes": 8,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002218",
+					"nameFirst": "Dennis",
+					"nameLast": "Knill",
+					"party": "W",
+					"votes": 7,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002499",
+					"nameFirst": "John A., Jr.",
+					"nameLast": "Dummett",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004669",
+					"nameFirst": "Christina",
+					"nameLast": "Lopez",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Iowa",
+			"stateAbv": "IA",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "6"
+			},
+			"electoralVotesTotal": "6",
+			"popularVoteTotal": 1582180,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 822544,
+					"percentVotes": 51.99
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 730617,
+					"percentVotes": 46.18
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 12926,
+					"percentVotes": 0.82
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 7442,
+					"percentVotes": 0.47
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "IG",
+					"votes": 3769,
+					"percentVotes": 0.24
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 3038,
+					"percentVotes": 0.19
+				},
+				{
+					"feicd": "P20005278",
+					"nameFirst": "Jerry",
+					"nameLast": "Litzel",
+					"party": "NP",
+					"votes": 1027,
+					"percentVotes": 0.06
+				},
+				{
+					"feicd": "P60004454",
+					"nameFirst": "James",
+					"nameLast": "Harris",
+					"party": "SWP",
+					"votes": 445,
+					"percentVotes": 0.03
+				},
+				{
+					"feicd": "P80005572",
+					"nameFirst": "Gloria",
+					"nameLast": "La Riva",
+					"party": "PSL",
+					"votes": 372,
+					"percentVotes": 0.02
+				}
+			]
+		},
+		{
+			"state": "Kansas",
+			"stateAbv": "KS",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "6"
+			},
+			"electoralVotesTotal": "6",
+			"popularVoteTotal": 1159971,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 692634,
+					"percentVotes": 59.71
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 440726,
+					"percentVotes": 37.99
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 20456,
+					"percentVotes": 1.76
+				},
+				{
+					"feicd": "P80005499",
+					"nameFirst": "Chuck",
+					"nameLast": "Baldwin",
+					"party": "REF",
+					"votes": 5017,
+					"percentVotes": 0.43
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill E.",
+					"nameLast": "Stein",
+					"party": "W",
+					"votes": 714,
+					"percentVotes": 0.06
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 187,
+					"percentVotes": 0.02
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross \\\"Rocky\\\" C.",
+					"nameLast": "Anderson",
+					"party": "W",
+					"votes": 95,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20002804",
+					"nameFirst": "Roseanne C.",
+					"nameLast": "Barr",
+					"party": "W",
+					"votes": 58,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Kent W.",
+					"nameLast": "Bush",
+					"party": "W",
+					"votes": 48,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002697",
+					"nameFirst": "Andre",
+					"nameLast": "Barnett",
+					"party": "W",
+					"votes": 19,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "W",
+					"votes": 12,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill A.",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 4,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005245",
+					"nameFirst": "Will",
+					"nameLast": "Christensen",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Kentucky",
+			"stateAbv": "KY",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "8"
+			},
+			"electoralVotesTotal": "8",
+			"popularVoteTotal": 1797212,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1087190,
+					"percentVotes": 60.49
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 679370,
+					"percentVotes": 37.8
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 17063,
+					"percentVotes": 0.95
+				},
+				{
+					"feicd": "P20002424",
+					"nameFirst": "Randall A.",
+					"nameLast": "Terry",
+					"party": "IND",
+					"votes": 6872,
+					"percentVotes": 0.38
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 6337,
+					"percentVotes": 0.35
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 245,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "W",
+					"votes": 60,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005252",
+					"nameFirst": "Richard",
+					"nameLast": "Duncan",
+					"party": "W",
+					"votes": 37,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "W",
+					"votes": 30,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004677",
+					"nameFirst": "Jerry",
+					"nameLast": "White",
+					"party": "W",
+					"votes": 4,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004651",
+					"nameFirst": "Stephen",
+					"nameLast": "Durham",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Louis Todd",
+					"nameLast": "House",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002218",
+					"nameFirst": "Dennis",
+					"nameLast": "Knill",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Louisiana",
+			"stateAbv": "LA",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "8"
+			},
+			"electoralVotesTotal": "8",
+			"popularVoteTotal": 1994065,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1152262,
+					"percentVotes": 57.78
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 809141,
+					"percentVotes": 40.58
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 18157,
+					"percentVotes": 0.91
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 6978,
+					"percentVotes": 0.35
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 2508,
+					"percentVotes": 0.13
+				},
+				{
+					"feicd": "P20002630",
+					"nameFirst": "Sheila",
+					"nameLast": "Tittle",
+					"party": "WTP",
+					"votes": 1767,
+					"percentVotes": 0.09
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross",
+					"nameLast": "Anderson",
+					"party": "JUS",
+					"votes": 1368,
+					"percentVotes": 0.07
+				},
+				{
+					"feicd": "P20004636",
+					"nameFirst": "Peta",
+					"nameLast": "Lindsay",
+					"party": "SLP",
+					"votes": 622,
+					"percentVotes": 0.03
+				},
+				{
+					"feicd": "P20000089",
+					"nameFirst": "Jack",
+					"nameLast": "Fellure",
+					"party": "P",
+					"votes": 518,
+					"percentVotes": 0.03
+				},
+				{
+					"feicd": "P60004454",
+					"nameFirst": "James",
+					"nameLast": "Harris",
+					"party": "SWP",
+					"votes": 389,
+					"percentVotes": 0.02
+				},
+				{
+					"feicd": "P20004677",
+					"nameFirst": "Jerry",
+					"nameLast": "White",
+					"party": "SEP",
+					"votes": 355,
+					"percentVotes": 0.02
+				}
+			]
+		},
+		{
+			"state": "Maine",
+			"stateAbv": "ME",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "4"
+			},
+			"electoralVotesTotal": "4",
+			"popularVoteTotal": 713180,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 401306,
+					"percentVotes": 56.27
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 292276,
+					"percentVotes": 40.98
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary E.",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 9352,
+					"percentVotes": 1.31
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GI",
+					"votes": 8119,
+					"percentVotes": 1.14
+				},
+				{
+					"feicd": "P80000748",
+					"nameFirst": "Ronald E.",
+					"nameLast": "Paul",
+					"party": "W",
+					"votes": 2035,
+					"percentVotes": 0.29
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C.",
+					"nameLast": "Anderson",
+					"party": "W",
+					"votes": 62,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill Ann",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 30,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Maryland",
+			"stateAbv": "MD",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "10"
+			},
+			"electoralVotesTotal": "10",
+			"popularVoteTotal": 2707327,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 1677844,
+					"percentVotes": 61.97
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 971869,
+					"percentVotes": 35.9
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 30195,
+					"percentVotes": 1.12
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 17110,
+					"percentVotes": 0.63
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Other",
+					"nameLast": "Other",
+					"party": "W",
+					"votes": 8788,
+					"percentVotes": 0.32
+				},
+				{
+					"feicd": "P20005146",
+					"nameFirst": "Santa",
+					"nameLast": "Claus",
+					"party": "W",
+					"votes": 625,
+					"percentVotes": 0.02
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 418,
+					"percentVotes": 0.02
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "W",
+					"votes": 204,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20002804",
+					"nameFirst": "Roseanne",
+					"nameLast": "Barr",
+					"party": "W",
+					"votes": 64,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "James",
+					"nameLast": "Clymer",
+					"party": "W",
+					"votes": 35,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004693",
+					"nameFirst": "Merlin",
+					"nameLast": "Miller",
+					"party": "W",
+					"votes": 26,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002697",
+					"nameFirst": "Andre",
+					"nameLast": "Barnett",
+					"party": "W",
+					"votes": 19,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004651",
+					"nameFirst": "Stephen",
+					"nameLast": "Durham",
+					"party": "W",
+					"votes": 19,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004750",
+					"nameFirst": "Tiffany Renee",
+					"nameLast": "Briscoe",
+					"party": "W",
+					"votes": 18,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Matthew",
+					"nameLast": "Lydick",
+					"party": "W",
+					"votes": 18,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005252",
+					"nameFirst": "Richard",
+					"nameLast": "Duncan",
+					"party": "W",
+					"votes": 15,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002580",
+					"nameFirst": "Paul",
+					"nameLast": "Chehade",
+					"party": "W",
+					"votes": 13,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Fred Donald, Jr.",
+					"nameLast": "Dickson",
+					"party": "W",
+					"votes": 8,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003869",
+					"nameFirst": "David M.",
+					"nameLast": "Crosby",
+					"party": "W",
+					"votes": 7,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002903",
+					"nameFirst": "Darrell",
+					"nameLast": "Hykes",
+					"party": "W",
+					"votes": 7,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 7,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Michael David",
+					"nameLast": "Boyles",
+					"party": "W",
+					"votes": 5,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Nelson",
+					"nameLast": "Keyton",
+					"party": "W",
+					"votes": 3,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Dwight Kenneth",
+					"nameLast": "French",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002218",
+					"nameFirst": "Dennis",
+					"nameLast": "Knill",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Barbara A.",
+					"nameLast": "Prokopich",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Robert William",
+					"nameLast": "Dietz",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004172",
+					"nameFirst": "Dean",
+					"nameLast": "Morstad",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004149",
+					"nameFirst": "Terrance James",
+					"nameLast": "O'Hara",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003836",
+					"nameFirst": "Cecil James",
+					"nameLast": "Roth",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Massachusetts",
+			"stateAbv": "MA",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "11"
+			},
+			"electoralVotesTotal": "11",
+			"popularVoteTotal": 3167767,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 1921290,
+					"percentVotes": 60.65
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1188314,
+					"percentVotes": 37.51
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 30920,
+					"percentVotes": 0.98
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GR",
+					"votes": 20691,
+					"percentVotes": 0.65
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "All Others",
+					"nameLast": "All Others",
+					"party": "W",
+					"votes": 6552,
+					"percentVotes": 0.21
+				}
+			]
+		},
+		{
+			"state": "Michigan",
+			"stateAbv": "MI",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "16"
+			},
+			"electoralVotesTotal": "16",
+			"popularVoteTotal": 4730961,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 2564569,
+					"percentVotes": 54.21
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 2115256,
+					"percentVotes": 44.71
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 21897,
+					"percentVotes": 0.46
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil, Jr.",
+					"nameLast": "Goode",
+					"party": "UST",
+					"votes": 16119,
+					"percentVotes": 0.34
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "W",
+					"votes": 7774,
+					"percentVotes": 0.16
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross",
+					"nameLast": "Anderson",
+					"party": "NLP",
+					"votes": 5147,
+					"percentVotes": 0.11
+				},
+				{
+					"feicd": "P20003968",
+					"nameFirst": "Stewart",
+					"nameLast": "Alexander",
+					"party": "W",
+					"votes": 89,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004677",
+					"nameFirst": "Jerry",
+					"nameLast": "White",
+					"party": "W",
+					"votes": 68,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "W",
+					"votes": 42,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Minnesota",
+			"stateAbv": "MN",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "10"
+			},
+			"electoralVotesTotal": "10",
+			"popularVoteTotal": 2936561,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "DFL",
+					"votes": 1546167,
+					"percentVotes": 52.65
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1320225,
+					"percentVotes": 44.96
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 35098,
+					"percentVotes": 1.2
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 13023,
+					"percentVotes": 0.44
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 10533,
+					"percentVotes": 0.36
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 3722,
+					"percentVotes": 0.13
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Jim",
+					"nameLast": "Carlson",
+					"party": "GRT",
+					"votes": 3149,
+					"percentVotes": 0.11
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "JUS",
+					"votes": 1996,
+					"percentVotes": 0.07
+				},
+				{
+					"feicd": "P20004172",
+					"nameFirst": "Dean",
+					"nameLast": "Morstad",
+					"party": "CG",
+					"votes": 1092,
+					"percentVotes": 0.04
+				},
+				{
+					"feicd": "P60004454",
+					"nameFirst": "James",
+					"nameLast": "Harris",
+					"party": "SWP",
+					"votes": 1051,
+					"percentVotes": 0.04
+				},
+				{
+					"feicd": "P20004636",
+					"nameFirst": "Peta",
+					"nameLast": "Lindsay",
+					"party": "SLP",
+					"votes": 397,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20002804",
+					"nameFirst": "Roseanne",
+					"nameLast": "Barr",
+					"party": "W",
+					"votes": 46,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Barbara",
+					"nameLast": "Prokopich",
+					"party": "W",
+					"votes": 35,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "W",
+					"votes": 14,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 8,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002697",
+					"nameFirst": "Andre",
+					"nameLast": "Barnett",
+					"party": "W",
+					"votes": 4,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005245",
+					"nameFirst": "Will",
+					"nameLast": "Christensen",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Mississippi",
+			"stateAbv": "MS",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "6"
+			},
+			"electoralVotesTotal": "6",
+			"popularVoteTotal": 1285584,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 710746,
+					"percentVotes": 55.29
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 562949,
+					"percentVotes": 43.79
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 6676,
+					"percentVotes": 0.52
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 2609,
+					"percentVotes": 0.2
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill A.",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 1588,
+					"percentVotes": 0.12
+				},
+				{
+					"feicd": "P20005286",
+					"nameFirst": "Barbara Dale",
+					"nameLast": "Washer",
+					"party": "REF",
+					"votes": 1016,
+					"percentVotes": 0.08
+				}
+			]
+		},
+		{
+			"state": "Missouri",
+			"stateAbv": "MO",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "10"
+			},
+			"electoralVotesTotal": "10",
+			"popularVoteTotal": 2757323,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1482440,
+					"percentVotes": 53.76
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 1223796,
+					"percentVotes": 44.38
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 43151,
+					"percentVotes": 1.56
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 7936,
+					"percentVotes": 0.29
+				}
+			]
+		},
+		{
+			"state": "Montana",
+			"stateAbv": "MT",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "3"
+			},
+			"electoralVotesTotal": "3",
+			"popularVoteTotal": 484048,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 267928,
+					"percentVotes": 55.35
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 201839,
+					"percentVotes": 41.7
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 14165,
+					"percentVotes": 2.93
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "W",
+					"votes": 59,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 39,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20002804",
+					"nameFirst": "Roseanne",
+					"nameLast": "Barr",
+					"party": "W",
+					"votes": 6,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "W",
+					"votes": 5,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003968",
+					"nameFirst": "Stewart",
+					"nameLast": "Alexander",
+					"party": "W",
+					"votes": 4,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002697",
+					"nameFirst": "Andre",
+					"nameLast": "Barnett",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Alexis",
+					"nameLast": "Logsdon",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Nebraska",
+			"stateAbv": "NE",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "5"
+			},
+			"electoralVotesTotal": "5",
+			"popularVoteTotal": 794379,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 475064,
+					"percentVotes": 59.8
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 302081,
+					"percentVotes": 38.03
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 11109,
+					"percentVotes": 1.4
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 3717,
+					"percentVotes": 0.47
+				},
+				{
+					"feicd": "P20002424",
+					"nameFirst": "Randall A.",
+					"nameLast": "Terry",
+					"party": "BP",
+					"votes": 2408,
+					"percentVotes": 0.3
+				}
+			]
+		},
+		{
+			"state": "Nevada",
+			"stateAbv": "NV",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "6"
+			},
+			"electoralVotesTotal": "6",
+			"popularVoteTotal": 1014918,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 531373,
+					"percentVotes": 52.36
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 463567,
+					"percentVotes": 45.68
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 10968,
+					"percentVotes": 1.08
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "None of These Candidates",
+					"nameLast": "None of These Candidates",
+					"party": "none",
+					"votes": 5770,
+					"percentVotes": 0.57
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "IAP",
+					"votes": 3240,
+					"percentVotes": 0.32
+				}
+			]
+		},
+		{
+			"state": "New Hampshire",
+			"stateAbv": "NH",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "4"
+			},
+			"electoralVotesTotal": "4",
+			"popularVoteTotal": 710972,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 369561,
+					"percentVotes": 51.98
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 329918,
+					"percentVotes": 46.4
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 8212,
+					"percentVotes": 1.16
+				},
+				{
+					"feicd": "P80000748",
+					"nameFirst": "Ron",
+					"nameLast": "Paul",
+					"party": "W",
+					"votes": 1374,
+					"percentVotes": 0.19
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 875,
+					"percentVotes": 0.12
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 708,
+					"percentVotes": 0.1
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "W",
+					"votes": 324,
+					"percentVotes": 0.05
+				}
+			]
+		},
+		{
+			"state": "New Jersey",
+			"stateAbv": "NJ",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "14"
+			},
+			"electoralVotesTotal": "14",
+			"popularVoteTotal": 3640292,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 2125101,
+					"percentVotes": 58.38
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1477568,
+					"percentVotes": 40.59
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 21045,
+					"percentVotes": 0.58
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 9888,
+					"percentVotes": 0.27
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 2064,
+					"percentVotes": 0.06
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. (Rocky)",
+					"nameLast": "Anderson",
+					"party": "NJJ",
+					"votes": 1724,
+					"percentVotes": 0.05
+				},
+				{
+					"feicd": "P80005077",
+					"nameFirst": "Jeff",
+					"nameLast": "Boss",
+					"party": "NSA",
+					"votes": 1007,
+					"percentVotes": 0.03
+				},
+				{
+					"feicd": "P60004454",
+					"nameFirst": "James",
+					"nameLast": "Harris",
+					"party": "SWP",
+					"votes": 710,
+					"percentVotes": 0.02
+				},
+				{
+					"feicd": "P20004693",
+					"nameFirst": "Merlin",
+					"nameLast": "Miller",
+					"party": "ATP",
+					"votes": 664,
+					"percentVotes": 0.02
+				},
+				{
+					"feicd": "P20004636",
+					"nameFirst": "Peta",
+					"nameLast": "Lindsay",
+					"party": "SLP",
+					"votes": 521,
+					"percentVotes": 0.01
+				}
+			]
+		},
+		{
+			"state": "New Mexico",
+			"stateAbv": "NM",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "5"
+			},
+			"electoralVotesTotal": "5",
+			"popularVoteTotal": 783758,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 415335,
+					"percentVotes": 52.99
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 335788,
+					"percentVotes": 42.84
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 27788,
+					"percentVotes": 3.55
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 2691,
+					"percentVotes": 0.34
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "NMI",
+					"votes": 1174,
+					"percentVotes": 0.15
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 982,
+					"percentVotes": 0.13
+				}
+			]
+		},
+		{
+			"state": "New York",
+			"stateAbv": "NY",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "29"
+			},
+			"electoralVotesTotal": "29",
+			"popularVoteTotal": 7081159,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "Combined Parties:",
+					"votes": 4485741,
+					"percentVotes": 63.35
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 4337622,
+					"percentVotes": 61.26
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "WF",
+					"votes": 148119,
+					"percentVotes": 2.09
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "Combined Parties:",
+					"votes": 2490431,
+					"percentVotes": 35.17
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 2228060,
+					"percentVotes": 31.46
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "CRV",
+					"votes": 262371,
+					"percentVotes": 3.71
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 47256,
+					"percentVotes": 0.67
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 39982,
+					"percentVotes": 0.56
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 9076,
+					"percentVotes": 0.13
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 6274,
+					"percentVotes": 0.09
+				},
+				{
+					"feicd": "P20004636",
+					"nameFirst": "Peta",
+					"nameLast": "Lindsay",
+					"party": "SLP",
+					"votes": 2050,
+					"percentVotes": 0.03
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C.",
+					"nameLast": "Anderson",
+					"party": "W",
+					"votes": 217,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004651",
+					"nameFirst": "Stephen",
+					"nameLast": "Durham",
+					"party": "W",
+					"votes": 34,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "W",
+					"votes": 34,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P60004454",
+					"nameFirst": "James",
+					"nameLast": "Harris",
+					"party": "W",
+					"votes": 27,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004677",
+					"nameFirst": "Jerry",
+					"nameLast": "White",
+					"party": "W",
+					"votes": 19,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 12,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004693",
+					"nameFirst": "Merlin",
+					"nameLast": "Miller",
+					"party": "W",
+					"votes": 6,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "North Carolina",
+			"stateAbv": "NC",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "15"
+			},
+			"electoralVotesTotal": "15",
+			"popularVoteTotal": 4505372,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 2270395,
+					"percentVotes": 50.39
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 2178391,
+					"percentVotes": 48.35
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 44515,
+					"percentVotes": 0.99
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 11537,
+					"percentVotes": 0.26
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 534,
+					"percentVotes": 0.01
+				}
+			]
+		},
+		{
+			"state": "North Dakota",
+			"stateAbv": "ND",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "3"
+			},
+			"electoralVotesTotal": "3",
+			"popularVoteTotal": 322627,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 188163,
+					"percentVotes": 58.32
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "DNL",
+					"votes": 124827,
+					"percentVotes": 38.69
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 5231,
+					"percentVotes": 1.62
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 1860,
+					"percentVotes": 0.58
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 1361,
+					"percentVotes": 0.42
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 1185,
+					"percentVotes": 0.37
+				}
+			]
+		},
+		{
+			"state": "Ohio",
+			"stateAbv": "OH",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "18"
+			},
+			"electoralVotesTotal": "18",
+			"popularVoteTotal": 5580847,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 2827709,
+					"percentVotes": 50.67
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 2661437,
+					"percentVotes": 47.69
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 49493,
+					"percentVotes": 0.89
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 18573,
+					"percentVotes": 0.33
+				},
+				{
+					"feicd": "P20005252",
+					"nameFirst": "Richard",
+					"nameLast": "Duncan",
+					"party": "IND",
+					"votes": 12502,
+					"percentVotes": 0.22
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 8152,
+					"percentVotes": 0.15
+				},
+				{
+					"feicd": "P20003968",
+					"nameFirst": "Stewart",
+					"nameLast": "Alexander",
+					"party": "SUS",
+					"votes": 2944,
+					"percentVotes": 0.05
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 14,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Mike",
+					"nameLast": "Vargo",
+					"party": "W",
+					"votes": 13,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002424",
+					"nameFirst": "Randall",
+					"nameLast": "Terry",
+					"party": "W",
+					"votes": 9,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Susan",
+					"nameLast": "Daniels",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Nelson",
+					"nameLast": "Keyton",
+					"party": "W",
+					"votes": 0,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Oklahoma",
+			"stateAbv": "OK",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "7"
+			},
+			"electoralVotesTotal": "7",
+			"popularVoteTotal": 1334872,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 891325,
+					"percentVotes": 66.77
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 443547,
+					"percentVotes": 33.23
+				}
+			]
+		},
+		{
+			"state": "Oregon",
+			"stateAbv": "OR",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "7"
+			},
+			"electoralVotesTotal": "7",
+			"popularVoteTotal": 1789270,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 970488,
+					"percentVotes": 54.24
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 754175,
+					"percentVotes": 42.15
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 24089,
+					"percentVotes": 1.35
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "PG",
+					"votes": 19427,
+					"percentVotes": 1.09
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Miscellaneous",
+					"nameLast": "Miscellaneous",
+					"party": "W",
+					"votes": 13275,
+					"percentVotes": 0.74
+				},
+				{
+					"feicd": "P20005245",
+					"nameFirst": "Will",
+					"nameLast": "Christensen",
+					"party": "CON",
+					"votes": 4432,
+					"percentVotes": 0.25
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. (Rocky)",
+					"nameLast": "Anderson",
+					"party": "PRO",
+					"votes": 3384,
+					"percentVotes": 0.19
+				}
+			]
+		},
+		{
+			"state": "Pennsylvania",
+			"stateAbv": "PA",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "20"
+			},
+			"electoralVotesTotal": "20",
+			"popularVoteTotal": 5753670,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 2990274,
+					"percentVotes": 51.97
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 2680434,
+					"percentVotes": 46.59
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 49991,
+					"percentVotes": 0.87
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 21341,
+					"percentVotes": 0.37
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 11219,
+					"percentVotes": 0.19
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 383,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "W",
+					"votes": 28,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Rhode Island",
+			"stateAbv": "RI",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "4"
+			},
+			"electoralVotesTotal": "4",
+			"popularVoteTotal": 446049,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 279677,
+					"percentVotes": 62.7
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 157204,
+					"percentVotes": 35.24
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 4388,
+					"percentVotes": 0.98
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 2421,
+					"percentVotes": 0.54
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 686,
+					"percentVotes": 0.15
+				},
+				{
+					"feicd": "P80000748",
+					"nameFirst": "Ron",
+					"nameLast": "Paul",
+					"party": "W",
+					"votes": 617,
+					"percentVotes": 0.14
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 430,
+					"percentVotes": 0.1
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "JUS",
+					"votes": 416,
+					"percentVotes": 0.09
+				},
+				{
+					"feicd": "P20004636",
+					"nameFirst": "Peta",
+					"nameLast": "Lindsay",
+					"party": "SLP",
+					"votes": 132,
+					"percentVotes": 0.03
+				},
+				{
+					"feicd": "P00003392",
+					"nameFirst": "Hillary",
+					"nameLast": "Clinton",
+					"party": "W",
+					"votes": 64,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Mickey",
+					"nameLast": "Mouse",
+					"party": "W",
+					"votes": 14,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "South Carolina",
+			"stateAbv": "SC",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "9"
+			},
+			"electoralVotesTotal": "9",
+			"popularVoteTotal": 1964118,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1071645,
+					"percentVotes": 54.56
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 865941,
+					"percentVotes": 44.09
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 16321,
+					"percentVotes": 0.83
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 5446,
+					"percentVotes": 0.28
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 4765,
+					"percentVotes": 0.24
+				}
+			]
+		},
+		{
+			"state": "South Dakota",
+			"stateAbv": "SD",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "3"
+			},
+			"electoralVotesTotal": "3",
+			"popularVoteTotal": 363815,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 210610,
+					"percentVotes": 57.89
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 145039,
+					"percentVotes": 39.87
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 5795,
+					"percentVotes": 1.59
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 2371,
+					"percentVotes": 0.65
+				}
+			]
+		},
+		{
+			"state": "Tennessee",
+			"stateAbv": "TN",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "11"
+			},
+			"electoralVotesTotal": "11",
+			"popularVoteTotal": 2458577,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1462330,
+					"percentVotes": 59.48
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 960709,
+					"percentVotes": 39.08
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "IND",
+					"votes": 18623,
+					"percentVotes": 0.76
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 6515,
+					"percentVotes": 0.26
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 6022,
+					"percentVotes": 0.24
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "IND",
+					"votes": 2639,
+					"percentVotes": 0.11
+				},
+				{
+					"feicd": "P20004693",
+					"nameFirst": "Merlin",
+					"nameLast": "Miller",
+					"party": "IND",
+					"votes": 1739,
+					"percentVotes": 0.07
+				}
+			]
+		},
+		{
+			"state": "Texas",
+			"stateAbv": "TX",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "38"
+			},
+			"electoralVotesTotal": "38",
+			"popularVoteTotal": 7993851,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 4569843,
+					"percentVotes": 57.17
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 3308124,
+					"percentVotes": 41.38
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 88580,
+					"percentVotes": 1.11
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 24657,
+					"percentVotes": 0.31
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 1287,
+					"percentVotes": 0.02
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Rocky",
+					"nameLast": "Anderson",
+					"party": "W",
+					"votes": 426,
+					"percentVotes": 0.01
+				},
+				{
+					"feicd": "P20005260",
+					"nameFirst": "Tom",
+					"nameLast": "Hoefling",
+					"party": "W",
+					"votes": 374,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004479",
+					"nameFirst": "Avery",
+					"nameLast": "Ayers",
+					"party": "W",
+					"votes": 209,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003968",
+					"nameFirst": "Stewart",
+					"nameLast": "Alexander",
+					"party": "W",
+					"votes": 162,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Thaddaus",
+					"nameLast": "Hill",
+					"party": "W",
+					"votes": 102,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002697",
+					"nameFirst": "Andre N.",
+					"nameLast": "Barnett",
+					"party": "W",
+					"votes": 87,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Utah",
+			"stateAbv": "UT",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "6"
+			},
+			"electoralVotesTotal": "6",
+			"popularVoteTotal": 1017440,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 740600,
+					"percentVotes": 72.79
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 251813,
+					"percentVotes": 24.75
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 12572,
+					"percentVotes": 1.24
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "JUS",
+					"votes": 5335,
+					"percentVotes": 0.52
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 3817,
+					"percentVotes": 0.38
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 2871,
+					"percentVotes": 0.28
+				},
+				{
+					"feicd": "P80005572",
+					"nameFirst": "Gloria",
+					"nameLast": "La Riva",
+					"party": "UN",
+					"votes": 393,
+					"percentVotes": 0.04
+				},
+				{
+					"feicd": "P20002804",
+					"nameFirst": "Roseanne",
+					"nameLast": "Barr",
+					"party": "W",
+					"votes": 18,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 6,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002697",
+					"nameFirst": "Andre",
+					"nameLast": "Barnett",
+					"party": "W",
+					"votes": 5,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20005245",
+					"nameFirst": "Will",
+					"nameLast": "Christensen",
+					"party": "W",
+					"votes": 5,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Justin",
+					"nameLast": "Myers",
+					"party": "W",
+					"votes": 2,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004651",
+					"nameFirst": "Stephen",
+					"nameLast": "Durham",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002903",
+					"nameFirst": "Darrell",
+					"nameLast": "Hykes",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20004172",
+					"nameFirst": "Dean",
+					"nameLast": "Morstad",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Vermont",
+			"stateAbv": "VT",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "3"
+			},
+			"electoralVotesTotal": "3",
+			"popularVoteTotal": 299290,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 199239,
+					"percentVotes": 66.57
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 92698,
+					"percentVotes": 30.97
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 3487,
+					"percentVotes": 1.17
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "JUS",
+					"votes": 1128,
+					"percentVotes": 0.38
+				},
+				{
+					"feicd": "P80000748",
+					"nameFirst": "Ron",
+					"nameLast": "Paul",
+					"party": "W",
+					"votes": 717,
+					"percentVotes": 0.24
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 710,
+					"percentVotes": 0.24
+				},
+				{
+					"feicd": "P20004636",
+					"nameFirst": "Peta",
+					"nameLast": "Lindsay",
+					"party": "SLP",
+					"votes": 695,
+					"percentVotes": 0.23
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "W",
+					"votes": 594,
+					"percentVotes": 0.2
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "W",
+					"votes": 13,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002804",
+					"nameFirst": "Roseanne",
+					"nameLast": "Barr",
+					"party": "W",
+					"votes": 9,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Virginia",
+			"stateAbv": "VA",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "13"
+			},
+			"electoralVotesTotal": "13",
+			"popularVoteTotal": 3854489,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 1971820,
+					"percentVotes": 51.16
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1822522,
+					"percentVotes": 47.28
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 31216,
+					"percentVotes": 0.81
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 13058,
+					"percentVotes": 0.34
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 8627,
+					"percentVotes": 0.22
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 7151,
+					"percentVotes": 0.19
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "W",
+					"votes": 76,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20003208",
+					"nameFirst": "Jill",
+					"nameLast": "Reed",
+					"party": "W",
+					"votes": 14,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Joseph A. /Darlene Herleikson",
+					"nameLast": "Glean",
+					"party": "W",
+					"votes": 3,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Joseph A. /Jamie Johnson",
+					"nameLast": "Glean",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002630",
+					"nameFirst": "Sheila \\\"Samm\\\"",
+					"nameLast": "Tittle",
+					"party": "W",
+					"votes": 1,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Washington",
+			"stateAbv": "WA",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "12"
+			},
+			"electoralVotesTotal": "12",
+			"popularVoteTotal": 3125516,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 1755396,
+					"percentVotes": 56.16
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1290670,
+					"percentVotes": 41.29
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 42202,
+					"percentVotes": 1.35
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "GRE",
+					"votes": 20928,
+					"percentVotes": 0.67
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 8851,
+					"percentVotes": 0.28
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "JUS",
+					"votes": 4946,
+					"percentVotes": 0.16
+				},
+				{
+					"feicd": "P20004636",
+					"nameFirst": "Peta",
+					"nameLast": "Lindsay",
+					"party": "SLP",
+					"votes": 1318,
+					"percentVotes": 0.04
+				},
+				{
+					"feicd": "P60004454",
+					"nameFirst": "James",
+					"nameLast": "Harris",
+					"party": "SWP",
+					"votes": 1205,
+					"percentVotes": 0.04
+				}
+			]
+		},
+		{
+			"state": "West Virginia",
+			"stateAbv": "WV",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "5"
+			},
+			"electoralVotesTotal": "5",
+			"popularVoteTotal": 670438,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 417655,
+					"percentVotes": 62.3
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 238269,
+					"percentVotes": 35.54
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 6302,
+					"percentVotes": 0.94
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "MTP",
+					"votes": 4406,
+					"percentVotes": 0.66
+				},
+				{
+					"feicd": "P20002424",
+					"nameFirst": "Randall",
+					"nameLast": "Terry",
+					"party": "NPA",
+					"votes": 3806,
+					"percentVotes": 0.57
+				}
+			]
+		},
+		{
+			"state": "Wisconsin",
+			"stateAbv": "WI",
+			"winner": {
+				"nameFirst": "Barack",
+				"nameLast": "Obama",
+				"electoralVotes": "10"
+			},
+			"electoralVotesTotal": "10",
+			"popularVoteTotal": 3068434,
+			"candidates": [
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 1620985,
+					"percentVotes": 52.83
+				},
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 1407966,
+					"percentVotes": 45.89
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "IND",
+					"votes": 20439,
+					"percentVotes": 0.67
+				},
+				{
+					"feicd": "P20003984",
+					"nameFirst": "Jill",
+					"nameLast": "Stein",
+					"party": "IND",
+					"votes": 7665,
+					"percentVotes": 0.25
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 5170,
+					"percentVotes": 0.17
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 4930,
+					"percentVotes": 0.16
+				},
+				{
+					"feicd": "P20004677",
+					"nameFirst": "Jerry",
+					"nameLast": "White",
+					"party": "IND",
+					"votes": 553,
+					"percentVotes": 0.02
+				},
+				{
+					"feicd": "P80005572",
+					"nameFirst": "Gloria",
+					"nameLast": "La Riva",
+					"party": "IND",
+					"votes": 526,
+					"percentVotes": 0.02
+				},
+				{
+					"feicd": "P20004263",
+					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameLast": "Anderson",
+					"party": "W",
+					"votes": 112,
+					"percentVotes": 0
+				},
+				{
+					"feicd": "P20002804",
+					"nameFirst": "Roseanne",
+					"nameLast": "Barr",
+					"party": "W",
+					"votes": 88,
+					"percentVotes": 0
+				}
+			]
+		},
+		{
+			"state": "Wyoming",
+			"stateAbv": "WY",
+			"winner": {
+				"nameFirst": "Mitt",
+				"nameLast": "Romney",
+				"electoralVotes": "3"
+			},
+			"electoralVotesTotal": "3",
+			"popularVoteTotal": 249061,
+			"candidates": [
+				{
+					"feicd": "P80003353",
+					"nameFirst": "Mitt",
+					"nameLast": "Romney",
+					"party": "R",
+					"votes": 170962,
+					"percentVotes": 68.64
+				},
+				{
+					"feicd": "P80003338",
+					"nameFirst": "Barack",
+					"nameLast": "Obama",
+					"party": "D",
+					"votes": 69286,
+					"percentVotes": 27.82
+				},
+				{
+					"feicd": "P20002671",
+					"nameFirst": "Gary",
+					"nameLast": "Johnson",
+					"party": "LIB",
+					"votes": 5326,
+					"percentVotes": 2.14
+				},
+				{
+					"feicd": "n/a",
+					"nameFirst": "Scattered",
+					"nameLast": "Scattered",
+					"party": "W",
+					"votes": 2035,
+					"percentVotes": 0.82
+				},
+				{
+					"feicd": "P20004685",
+					"nameFirst": "Virgil H.",
+					"nameLast": "Goode",
+					"party": "CON",
+					"votes": 1452,
+					"percentVotes": 0.58
+				}
+			]
+		}
+	],
+	"partiesKey": [
+		{
+			"AA": "Abundant America"
+		},
+		{
+			"AE": "Americans Elect"
+		},
+		{
+			"AF": "America First"
+		},
+		{
+			"AIP": "American Independent"
+		},
+		{
+			"AMC": "American Constitution Party"
+		},
+		{
+			"AMP": "America’s Party"
+		},
+		{
+			"APF": "America’s Party of Florida"
+		},
+		{
+			"ATP": "American Third Position"
+		},
+		{
+			"BFC": "Bednarski for Congress"
+		},
+		{
+			"BFJ": "Bob's for Jobs"
+		},
+		{
+			"BP": "By Petition"
+		},
+		{
+			"CC": "Constitutional Conservative"
+		},
+		{
+			"CCC": "Conservative, Compassionate, Creative"
+		},
+		{
+			"CG": "Constitutional Government"
+		},
+		{
+			"CHA": "Change, Change, Change"
+		},
+		{
+			"CON": "Constitution"
+		},
+		{
+			"COU": "Country"
+		},
+		{
+			"CPF": "Constitution Party of Florida"
+		},
+		{
+			"CRV": "Conservative"
+		},
+		{
+			"CSP": "Common Sense"
+		},
+		{
+			"D": "Democratic"
+		},
+		{
+			"DCG": "D.C. Statehood Green"
+		},
+		{
+			"DFL": "Democratic-Farmer Labor"
+		},
+		{
+			"DNL": "Democratic-Nonpartisan League"
+		},
+		{
+			"EWP": "Employmentwealth Party"
+		},
+		{
+			"FDR": "F.D.R. Democrat Party"
+		},
+		{
+			"GI": "Green Independent"
+		},
+		{
+			"GOP": "G.O.P. Party"
+		},
+		{
+			"GPF": "Green Party of Florida"
+		},
+		{
+			"GR": "Green-Rainbow"
+		},
+		{
+			"GRE": "Green"
+		},
+		{
+			"GRT": "Grassroots"
+		},
+		{
+			"IAP": "Independent American  Party"
+		},
+		{
+			"IDA": "I.D.E.A."
+		},
+		{
+			"IDE": "Independent Party of Delaware"
+		},
+		{
+			"IDP": "Independence"
+		},
+		{
+			"IFL": "Independent for Liberty"
+		},
+		{
+			"IFM": "Independent for Maine"
+		},
+		{
+			"IG": "Iowa Green"
+		},
+		{
+			"IGR": "Independent Green"
+		},
+		{
+			"IND": "Independent"
+		},
+		{
+			"IP": "Independent Party"
+		},
+		{
+			"IR": "Independent Reform Candidate"
+		},
+		{
+			"JPF": "Justice Party of Florida"
+		},
+		{
+			"JSI": "Jersey Strong Independents"
+		},
+		{
+			"JUS": "Justice Party"
+		},
+		{
+			"LBF": "Libertarian Party of Florida"
+		},
+		{
+			"LIB": "Libertarian"
+		},
+		{
+			"LMP": "Legalize Marijuana Party"
+		},
+		{
+			"LU": "Liberty Union"
+		},
+		{
+			"MOP": "Minnesota Open Progresssives"
+		},
+		{
+			"MTP": "Mountain Party"
+		},
+		{
+			"MUS": "Sovereignty Union Movement"
+		},
+		{
+			"N": "Nonpartisan"
+		},
+		{
+			"NAF": "Non-Affiliated"
+		},
+		{
+			"NJJ": "New Jersey Justice Party"
+		},
+		{
+			"NLP": "Natural Law Party"
+		},
+		{
+			"NMI": "New Mexico Independent Party"
+		},
+		{
+			"NNP": "Prefers The 99% Party"
+		},
+		{
+			"NON": "Non-Party"
+		},
+		{
+			"NOP": "No Party Preference"
+		},
+		{
+			"NOT": "None of Them"
+		},
+		{
+			"NP": "Nominated by Petition"
+		},
+		{
+			"NPA": "No Party Affiliation"
+		},
+		{
+			"NPP": "New Progressive Party"
+		},
+		{
+			"NS": "No Slogan"
+		},
+		{
+			"NSA": "NSA Did 911"
+		},
+		{
+			"NSF": "No Slogan Filed"
+		},
+		{
+			"OAI": "Overthrow All Incumbents"
+		},
+		{
+			"OBF": "Objectivist Party of Florida"
+		},
+		{
+			"OBJ": "Objectivist Party"
+		},
+		{
+			"OCG": "Opposing Congressional Gridlock"
+		},
+		{
+			"P": "Prohibition Party"
+		},
+		{
+			"PAC": "Politicians are Crooks"
+		},
+		{
+			"PAF": "Peace and Freedom"
+		},
+		{
+			"PC": "Petitioning Candidate"
+		},
+		{
+			"PEP": "Peace and Prosperity"
+		},
+		{
+			"PFF": "Peace and Freedom Party of Florida"
+		},
+		{
+			"PFP": "Peace and Freedom"
+		},
+		{
+			"PG": "Pacific Green"
+		},
+		{
+			"PIN": "Progressive Independent Party"
+		},
+		{
+			"PPD": "Popular Democratic Party"
+		},
+		{
+			"PPR": "Puerto Ricans for Puerto Rico"
+		},
+		{
+			"PPT": "Party of the Working People"
+		},
+		{
+			"PRI": "Puerto Rican Independence Party"
+		},
+		{
+			"PRO": "Progressive"
+		},
+		{
+			"PSL": "Party for Socialism and Liberation"
+		},
+		{
+			"R": "Republican"
+		},
+		{
+			"RAP": "Restoring America's Promise"
+		},
+		{
+			"REF": "Reform"
+		},
+		{
+			"RFI": "Responsibility Fairness Integrity"
+		},
+		{
+			"RN": "Reform Nation"
+		},
+		{
+			"SEP": "Socialist Equality Party"
+		},
+		{
+			"SFL": "Socialist Party of Florida"
+		},
+		{
+			"SLF": "Party for Socialism and Liberation - Florida"
+		},
+		{
+			"SLP": "Socialism and Liberation Party"
+		},
+		{
+			"STG": "Statehood Green"
+		},
+		{
+			"SUS": "Socialist Party USA"
+		},
+		{
+			"SWP": "Socialist Workers Party"
+		},
+		{
+			"TIC": "Totally Independent Candidate"
+		},
+		{
+			"TPA": "The People's Agenda"
+		},
+		{
+			"TRP": "Tax Revolt"
+		},
+		{
+			"TVH": "Truth Vision Hope"
+		},
+		{
+			"UIS": "Unity Is Strength"
+		},
+		{
+			"UJP": "Utah Justice Party"
+		},
+		{
+			"UN": "Unaffiliated"
+		},
+		{
+			"USM": "United States Marijuana"
+		},
+		{
+			"UST": "U.S. Taxpayers"
+		},
+		{
+			"VKS": "Vote KISS"
+		},
+		{
+			"W": "Write-In"
+		},
+		{
+			"WF": "Working Families"
+		},
+		{
+			"WTP": "We the People"
+		}
+	]
+}
