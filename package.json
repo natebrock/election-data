@@ -1,0 +1,29 @@
+{
+  "name": "election-data",
+  "version": "0.0.1",
+  "description": "U.S. Election Data from the Federal Election Commission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natebrock/election-data.git"
+  },
+  "keywords": [
+    "electoral",
+    "united",
+    "states",
+    "election",
+    "fec"
+  ],
+  "author": "Nate Brock <natebrock@gmail.com> (http://wolfcomesho.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natebrock/election-data/issues"
+  },
+  "homepage": "https://github.com/natebrock/election-data#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
