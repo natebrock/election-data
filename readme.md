@@ -13,8 +13,8 @@ npm install election-data
 ### .getState(state)
 `state` string | array
 ```js
-var electionData = require('election-data');
-Election = electionData();
+var ElectionData = require('election-data');
+var Election = ElectionData();
 Election.getState(['AL', 'CA', 'FL']);
 ```
 Returns election data for the states specified (using the state's two letter postal code (e.g., AL, CA, FL, DC). ```state``` may be a string if only one state is specified. If invoked without ```state```, returns data for all states.
