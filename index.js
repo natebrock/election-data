@@ -25,8 +25,6 @@ module.exports = function Election() {
       return (getAll || match);
     });
 
-    return stateData;
-
     // stateData = stateData.map(function (state) {
     //   return _.pick(state, 'electoralVotesTotal', 'state');
     // });
