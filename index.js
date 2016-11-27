@@ -28,7 +28,7 @@ module.exports = function Election() {
     return stateData;
   };
 
-  this.candidates = function candidates() {
+  this.candidates = function () {
     return ballotCandidates;
   }
 
