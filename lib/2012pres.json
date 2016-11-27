@@ -1,4548 +1,5010 @@
 {
 	"year": 2016,
-	"winner": {
-		"nameLast": "Obama",
-		"nameFirst": "Barack"
-	},
 	"votesCast": 129085410,
 	"states": [
 		{
 			"state": "Alabama",
 			"stateAbv": "AL",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "9"
-			},
-			"electoralVotesTotal": "9",
+			"electoralVotes": 9,
 			"popularVoteTotal": 2074338,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1255925,
-					"percentVotes": 60.55
+					"percent": 60.55
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 795696,
-					"percentVotes": 38.36
+					"percent": 38.36
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "IND",
 					"votes": 12328,
-					"percentVotes": 0.59
+					"percent": 0.59
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 4011,
-					"percentVotes": 0.19
+					"percent": 0.19
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "IND",
 					"votes": 3397,
-					"percentVotes": 0.16
+					"percent": 0.16
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil H., Jr.",
 					"nameFirst": "Virgil H., Jr.",
 					"nameLast": "Goode",
 					"party": "IND",
 					"votes": 2981,
-					"percentVotes": 0.14
+					"percent": 0.14
 				}
 			]
 		},
 		{
 			"state": "Alaska",
 			"stateAbv": "AK",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "3"
-			},
-			"electoralVotesTotal": "3",
+			"electoralVotes": 3,
 			"popularVoteTotal": 300495,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 164676,
-					"percentVotes": 54.8
+					"percent": 54.8
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 122640,
-					"percentVotes": 40.81
+					"percent": 40.81
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 7392,
-					"percentVotes": 2.46
+					"percent": 2.46
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 2917,
-					"percentVotes": 0.97
+					"percent": 0.97
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 2870,
-					"percentVotes": 0.96
+					"percent": 0.96
 				}
 			]
 		},
 		{
 			"state": "Arizona",
 			"stateAbv": "AZ",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "11"
-			},
-			"electoralVotesTotal": "11",
+			"electoralVotes": 11,
 			"popularVoteTotal": 2299254,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1233654,
-					"percentVotes": 53.65
+					"percent": 53.65
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1025232,
-					"percentVotes": 44.59
+					"percent": 44.59
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 32100,
-					"percentVotes": 1.4
+					"percent": 1.4
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 7816,
-					"percentVotes": 0.34
+					"percent": 0.34
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 289,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 119,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 17,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005245",
+					"nameFull": "Christensen, Will",
 					"nameFirst": "Will",
 					"nameLast": "Christensen",
 					"party": "W",
 					"votes": 14,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002218",
+					"nameFull": "Knill, Dennis",
 					"nameFirst": "Dennis",
 					"nameLast": "Knill",
 					"party": "W",
 					"votes": 7,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002630",
-					"nameFirst": "Sheila \\\"Samm\\\"",
+					"nameFull": "Tittle, Sheila \"Samm\"",
+					"nameFirst": "Sheila \"Samm\"",
 					"nameLast": "Tittle",
 					"party": "W",
 					"votes": 6,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Arkansas",
 			"stateAbv": "AR",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "6"
-			},
-			"electoralVotesTotal": "6",
+			"electoralVotes": 6,
 			"popularVoteTotal": 1069468,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 647744,
-					"percentVotes": 60.57
+					"percent": 60.57
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 394409,
-					"percentVotes": 36.88
+					"percent": 36.88
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 16276,
-					"percentVotes": 1.52
+					"percent": 1.52
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 9305,
-					"percentVotes": 0.87
+					"percent": 0.87
 				},
 				{
 					"feicd": "P20004636",
+					"nameFull": "Lindsay, Peta",
 					"nameFirst": "Peta",
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 1734,
-					"percentVotes": 0.16
+					"percent": 0.16
 				}
 			]
 		},
 		{
 			"state": "California",
 			"stateAbv": "CA",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "55"
-			},
-			"electoralVotesTotal": "55",
+			"electoralVotes": 55,
 			"popularVoteTotal": 13038547,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 7854285,
-					"percentVotes": 60.24
+					"percent": 60.24
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 4839958,
-					"percentVotes": 37.12
+					"percent": 37.12
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 143221,
-					"percentVotes": 1.1
+					"percent": 1.1
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 85638,
-					"percentVotes": 0.66
+					"percent": 0.66
 				},
 				{
 					"feicd": "P20002804",
+					"nameFull": "Barr, Roseanne",
 					"nameFirst": "Roseanne",
 					"nameLast": "Barr",
 					"party": "PFP",
 					"votes": 53824,
-					"percentVotes": 0.41
+					"percent": 0.41
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Thomas",
 					"nameFirst": "Thomas",
 					"nameLast": "Hoefling",
 					"party": "AIP",
 					"votes": 38372,
-					"percentVotes": 0.29
+					"percent": 0.29
 				},
 				{
 					"feicd": "P80000748",
+					"nameFull": "Paul, Ron",
 					"nameFirst": "Ron",
 					"nameLast": "Paul",
 					"party": "W",
 					"votes": 21461,
-					"percentVotes": 0.16
+					"percent": 0.16
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 992,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 503,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003968",
+					"nameFull": "Alexander, Stewart",
 					"nameFirst": "Stewart",
 					"nameLast": "Alexander",
 					"party": "W",
 					"votes": 82,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004677",
+					"nameFull": "White, Jerry",
 					"nameFirst": "Jerry",
 					"nameLast": "White",
 					"party": "W",
 					"votes": 79,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P60004454",
+					"nameFull": "Harris, James",
 					"nameFirst": "James",
 					"nameLast": "Harris",
 					"party": "W",
 					"votes": 72,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004651",
+					"nameFull": "Durham, Stephen",
 					"nameFirst": "Stephen",
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 54,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002630",
-					"nameFirst": "Sheila \\\"Samm\\\"",
+					"nameFull": "Tittle, Sheila \"Samm\"",
+					"nameFirst": "Sheila \"Samm\"",
 					"nameLast": "Tittle",
 					"party": "W",
 					"votes": 6,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Colorado",
 			"stateAbv": "CO",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "9"
-			},
-			"electoralVotesTotal": "9",
+			"electoralVotes": 9,
 			"popularVoteTotal": 2569522,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1323102,
-					"percentVotes": 51.49
+					"percent": 51.49
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1185243,
-					"percentVotes": 46.13
+					"percent": 46.13
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 35545,
-					"percentVotes": 1.38
+					"percent": 1.38
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 7508,
-					"percentVotes": 0.29
+					"percent": 0.29
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil H., Jr.",
 					"nameFirst": "Virgil H., Jr.",
 					"nameLast": "Goode",
 					"party": "AMC",
 					"votes": 6234,
-					"percentVotes": 0.24
+					"percent": 0.24
 				},
 				{
 					"feicd": "P20002804",
+					"nameFull": "Barr, Roseanne",
 					"nameFirst": "Roseanne",
 					"nameLast": "Barr",
 					"party": "PFP",
 					"votes": 5059,
-					"percentVotes": 0.2
+					"percent": 0.2
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Reed",
 					"party": "UN",
 					"votes": 2589,
-					"percentVotes": 0.1
+					"percent": 0.1
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 1260,
-					"percentVotes": 0.05
+					"percent": 0.05
 				},
 				{
 					"feicd": "P20002630",
+					"nameFull": "Tittle, Sheila 'Samm'",
 					"nameFirst": "Sheila 'Samm'",
 					"nameLast": "Tittle",
 					"party": "WTP",
 					"votes": 792,
-					"percentVotes": 0.03
+					"percent": 0.03
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "AMP",
 					"votes": 679,
-					"percentVotes": 0.03
+					"percent": 0.03
 				},
 				{
 					"feicd": "P80005572",
+					"nameFull": "La Riva, Gloria",
 					"nameFirst": "Gloria",
 					"nameLast": "La Riva",
 					"party": "SLP",
 					"votes": 317,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20003968",
+					"nameFull": "Alexander, Stewart",
 					"nameFirst": "Stewart",
 					"nameLast": "Alexander",
 					"party": "SUS",
 					"votes": 308,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20004693",
+					"nameFull": "Miller, Merlin",
 					"nameFirst": "Merlin",
 					"nameLast": "Miller",
 					"party": "ATP",
 					"votes": 266,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P80005655",
+					"nameFull": "Stevens, Thomas Robert",
 					"nameFirst": "Thomas Robert",
 					"nameLast": "Stevens",
 					"party": "OBJ",
 					"votes": 235,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P60004454",
+					"nameFull": "Harris, James",
 					"nameFirst": "James",
 					"nameLast": "Harris",
 					"party": "SWP",
 					"votes": 192,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20004677",
+					"nameFull": "White, Jerry",
 					"nameFirst": "Jerry",
 					"nameLast": "White",
 					"party": "SEP",
 					"votes": 189,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20002424",
+					"nameFull": "Terry, Randall",
 					"nameFirst": "Randall",
 					"nameLast": "Terry",
 					"party": "W",
 					"votes": 4,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Connecticut",
 			"stateAbv": "CT",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "7"
-			},
-			"electoralVotesTotal": "7",
+			"electoralVotes": 7,
 			"popularVoteTotal": 1558960,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 905083,
-					"percentVotes": 58.06
+					"percent": 58.06
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 634892,
-					"percentVotes": 40.73
+					"percent": 40.73
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 12580,
-					"percentVotes": 0.81
+					"percent": 0.81
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "IP",
 					"votes": 5487,
-					"percentVotes": 0.35
+					"percent": 0.35
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "W",
 					"votes": 863,
-					"percentVotes": 0.06
+					"percent": 0.06
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 25,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Warner, Gerald",
 					"nameFirst": "Gerald",
 					"nameLast": "Warner",
 					"party": "W",
 					"votes": 19,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P60004454",
+					"nameFull": "Harris, James E.",
 					"nameFirst": "James E.",
 					"nameLast": "Harris",
 					"party": "W",
 					"votes": 5,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Sizemore, Raymond",
 					"nameFirst": "Raymond",
 					"nameLast": "Sizemore",
 					"party": "W",
 					"votes": 5,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004651",
+					"nameFull": "Durham, Stephen",
 					"nameFirst": "Stephen",
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Delaware",
 			"stateAbv": "DE",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "3"
-			},
-			"electoralVotesTotal": "3",
+			"electoralVotes": 3,
 			"popularVoteTotal": 413921,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 242584,
-					"percentVotes": 58.61
+					"percent": 58.61
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 165484,
-					"percentVotes": 39.98
+					"percent": 39.98
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 3882,
-					"percentVotes": 0.94
+					"percent": 0.94
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 1940,
-					"percentVotes": 0.47
+					"percent": 0.47
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 23,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 7,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "District of Columbia",
 			"stateAbv": "DC",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "3"
-			},
-			"electoralVotesTotal": "3",
+			"electoralVotes": 3,
 			"popularVoteTotal": 293764,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 267070,
-					"percentVotes": 90.91
+					"percent": 90.91
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 21381,
-					"percentVotes": 7.28
+					"percent": 7.28
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "DCG",
 					"votes": 2458,
-					"percentVotes": 0.84
+					"percent": 0.84
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 2083,
-					"percentVotes": 0.71
+					"percent": 0.71
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 772,
-					"percentVotes": 0.26
+					"percent": 0.26
 				}
 			]
 		},
 		{
 			"state": "Florida",
 			"stateAbv": "FL",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "29"
-			},
-			"electoralVotesTotal": "29",
+			"electoralVotes": 29,
 			"popularVoteTotal": 8474179,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 4237756,
-					"percentVotes": 50.01
+					"percent": 50.01
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 4163447,
-					"percentVotes": 49.13
+					"percent": 49.13
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LBF",
 					"votes": 44726,
-					"percentVotes": 0.53
+					"percent": 0.53
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GPF",
 					"votes": 8947,
-					"percentVotes": 0.11
+					"percent": 0.11
 				},
 				{
 					"feicd": "P20002804",
+					"nameFull": "Barr, Roseanne",
 					"nameFirst": "Roseanne",
 					"nameLast": "Barr",
 					"party": "PFF",
 					"votes": 8154,
-					"percentVotes": 0.1
+					"percent": 0.1
 				},
 				{
 					"feicd": "P80005655",
+					"nameFull": "Stevens, Thomas Robert",
 					"nameFirst": "Thomas Robert",
 					"nameLast": "Stevens",
 					"party": "OBF",
 					"votes": 3856,
-					"percentVotes": 0.05
+					"percent": 0.05
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil H., Jr.",
 					"nameFirst": "Virgil H., Jr.",
 					"nameLast": "Goode",
 					"party": "CPF",
 					"votes": 2607,
-					"percentVotes": 0.03
+					"percent": 0.03
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "JPF",
 					"votes": 1754,
-					"percentVotes": 0.02
+					"percent": 0.02
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "APF",
 					"votes": 946,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20002697",
+					"nameFull": "Barnett, Andre",
 					"nameFirst": "Andre",
 					"nameLast": "Barnett",
 					"party": "REF",
 					"votes": 820,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20003968",
+					"nameFull": "Alexander, Stewart",
 					"nameFirst": "Stewart",
 					"nameLast": "Alexander",
 					"party": "SFL",
 					"votes": 799,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20004636",
+					"nameFull": "Lindsay, Peta",
 					"nameFirst": "Peta",
 					"nameLast": "Lindsay",
 					"party": "SLF",
 					"votes": 322,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 36,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005252",
+					"nameFull": "Duncan, Richard",
 					"nameFirst": "Richard",
 					"nameLast": "Duncan",
 					"party": "W",
 					"votes": 3,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004651",
+					"nameFull": "Durham, Stephen G.",
 					"nameFirst": "Stephen G.",
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 3,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002648",
+					"nameFull": "Magee, Erin Kent",
 					"nameFirst": "Erin Kent",
 					"nameLast": "Magee",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Coniglio, Andrew Charles",
 					"nameFirst": "Andrew Charles",
 					"nameLast": "Coniglio",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Georgia",
 			"stateAbv": "GA",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "16"
-			},
-			"electoralVotesTotal": "16",
+			"electoralVotes": 16,
 			"popularVoteTotal": 3900050,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2078688,
-					"percentVotes": 53.3
+					"percent": 53.3
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1773827,
-					"percentVotes": 45.48
+					"percent": 45.48
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 45324,
-					"percentVotes": 1.16
+					"percent": 1.16
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "W",
 					"votes": 1516,
-					"percentVotes": 0.04
+					"percent": 0.04
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 432,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 154,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002903",
+					"nameFull": "Hykes, Darrell",
 					"nameFirst": "Darrell",
 					"nameLast": "Hykes",
 					"party": "W",
 					"votes": 55,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Reid, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Reid",
 					"party": "W",
 					"votes": 30,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P60004454",
+					"nameFull": "Harris, James",
 					"nameFirst": "James",
 					"nameLast": "Harris",
 					"party": "W",
 					"votes": 21,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Byrne, David C.",
 					"nameFirst": "David C.",
 					"nameLast": "Byrne",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002648",
+					"nameFull": "Magee, Erin Kent",
 					"nameFirst": "Erin Kent",
 					"nameLast": "Magee",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Hawaii",
 			"stateAbv": "HI",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "4"
-			},
-			"electoralVotesTotal": "4",
+			"electoralVotes": 4,
 			"popularVoteTotal": 434697,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 306658,
-					"percentVotes": 70.55
+					"percent": 70.55
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 121015,
-					"percentVotes": 27.84
+					"percent": 27.84
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 3840,
-					"percentVotes": 0.88
+					"percent": 0.88
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 3184,
-					"percentVotes": 0.73
+					"percent": 0.73
 				}
 			]
 		},
 		{
 			"state": "Idaho",
 			"stateAbv": "ID",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "4"
-			},
-			"electoralVotesTotal": "4",
+			"electoralVotes": 4,
 			"popularVoteTotal": 652274,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 420911,
-					"percentVotes": 64.53
+					"percent": 64.53
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 212787,
-					"percentVotes": 32.62
+					"percent": 32.62
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 9453,
-					"percentVotes": 1.45
+					"percent": 1.45
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "IND",
 					"votes": 4402,
-					"percentVotes": 0.67
+					"percent": 0.67
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "IND",
 					"votes": 2499,
-					"percentVotes": 0.38
+					"percent": 0.38
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil H.",
 					"nameFirst": "Virgil H.",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 2222,
-					"percentVotes": 0.34
+					"percent": 0.34
 				}
 			]
 		},
 		{
 			"state": "Illinois",
 			"stateAbv": "IL",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "20"
-			},
-			"electoralVotesTotal": "20",
+			"electoralVotes": 20,
 			"popularVoteTotal": 5242014,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 3019512,
-					"percentVotes": 57.6
+					"percent": 57.6
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2135216,
-					"percentVotes": 40.73
+					"percent": 40.73
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 56229,
-					"percentVotes": 1.07
+					"percent": 1.07
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 30222,
-					"percentVotes": 0.58
+					"percent": 0.58
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil / Clymer, Jim",
 					"nameFirst": "Virgil / Clymer, Jim",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 233,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 185,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 182,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 121,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 22,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004974",
+					"nameFull": "Hawkins, Michael",
 					"nameFirst": "Michael",
 					"nameLast": "Hawkins",
 					"party": "W",
 					"votes": 16,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Cary, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Cary",
 					"party": "W",
 					"votes": 14,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill / Cary, Tom",
 					"nameFirst": "Jill / Cary, Tom",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 10,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004677",
+					"nameFull": "White, Jerry",
 					"nameFirst": "Jerry",
 					"nameLast": "White",
 					"party": "W",
 					"votes": 8,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003836",
+					"nameFull": "Roth, Cecil",
 					"nameFirst": "Cecil",
 					"nameLast": "Roth",
 					"party": "W",
 					"votes": 5,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scherrer, Phyllis",
 					"nameFirst": "Phyllis",
 					"nameLast": "Scherrer",
 					"party": "W",
 					"votes": 5,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Clymer, Jim",
 					"nameFirst": "Jim",
 					"nameLast": "Clymer",
 					"party": "W",
 					"votes": 4,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Prokopich, Barbara",
 					"nameFirst": "Barbara",
 					"nameLast": "Prokopich",
 					"party": "W",
 					"votes": 4,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004677",
+					"nameFull": "White, Jerry / Scherrer, Phyllis",
 					"nameFirst": "Jerry / Scherrer, Phyllis",
 					"nameLast": "White",
 					"party": "W",
 					"votes": 4,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom / Ellis, Jonathan",
 					"nameFirst": "Tom / Ellis, Jonathan",
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 3,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002218",
+					"nameFull": "Knill, Dennis",
 					"nameFirst": "Dennis",
 					"nameLast": "Knill",
 					"party": "W",
 					"votes": 3,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Tyree, Roy Wayne",
 					"nameFirst": "Roy Wayne",
 					"nameLast": "Tyree",
 					"party": "W",
 					"votes": 3,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002580",
+					"nameFull": "Chehade, Paul",
 					"nameFirst": "Paul",
 					"nameLast": "Chehade",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002580",
+					"nameFull": "Chehade, Paul / McAllister, Steve",
 					"nameFirst": "Paul / McAllister, Steve",
 					"nameLast": "Chehade",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004651",
+					"nameFull": "Durham, Stephen / Lopez, Christina",
 					"nameFirst": "Stephen / Lopez, Christina",
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Maxwell, Lynn",
 					"nameFirst": "Lynn",
 					"nameLast": "Maxwell",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Struck, James T.",
 					"nameFirst": "James T.",
 					"nameLast": "Struck",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004651",
+					"nameFull": "Durham, Stephen",
 					"nameFirst": "Stephen",
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Ellis, Jonathan",
 					"nameFirst": "Jonathan",
 					"nameLast": "Ellis",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Frost, Stephen James",
 					"nameFirst": "Stephen James",
 					"nameLast": "Frost",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Indiana",
 			"stateAbv": "IN",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "11"
-			},
-			"electoralVotesTotal": "11",
+			"electoralVotes": 11,
 			"popularVoteTotal": 2624534,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1420543,
-					"percentVotes": 54.13
+					"percent": 54.13
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1152887,
-					"percentVotes": 43.93
+					"percent": 43.93
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 50111,
-					"percentVotes": 1.91
+					"percent": 1.91
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "W",
 					"votes": 625,
-					"percentVotes": 0.02
+					"percent": 0.02
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil H., Jr.",
 					"nameFirst": "Virgil H., Jr.",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 290,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 35,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003968",
+					"nameFull": "Alexander, Stewart",
 					"nameFirst": "Stewart",
 					"nameLast": "Alexander",
 					"party": "W",
 					"votes": 17,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 8,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002424",
+					"nameFull": "Terry, Randall A.",
 					"nameFirst": "Randall A.",
 					"nameLast": "Terry",
 					"party": "W",
 					"votes": 8,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002218",
+					"nameFull": "Knill, Dennis",
 					"nameFirst": "Dennis",
 					"nameLast": "Knill",
 					"party": "W",
 					"votes": 7,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002499",
+					"nameFull": "Dummett, John A., Jr.",
 					"nameFirst": "John A., Jr.",
 					"nameLast": "Dummett",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004669",
+					"nameFull": "Lopez, Christina",
 					"nameFirst": "Christina",
 					"nameLast": "Lopez",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Iowa",
 			"stateAbv": "IA",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "6"
-			},
-			"electoralVotesTotal": "6",
+			"electoralVotes": 6,
 			"popularVoteTotal": 1582180,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 822544,
-					"percentVotes": 51.99
+					"percent": 51.99
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 730617,
-					"percentVotes": 46.18
+					"percent": 46.18
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 12926,
-					"percentVotes": 0.82
+					"percent": 0.82
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 7442,
-					"percentVotes": 0.47
+					"percent": 0.47
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "IG",
 					"votes": 3769,
-					"percentVotes": 0.24
+					"percent": 0.24
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 3038,
-					"percentVotes": 0.19
+					"percent": 0.19
 				},
 				{
 					"feicd": "P20005278",
+					"nameFull": "Litzel, Jerry",
 					"nameFirst": "Jerry",
 					"nameLast": "Litzel",
 					"party": "NP",
 					"votes": 1027,
-					"percentVotes": 0.06
+					"percent": 0.06
 				},
 				{
 					"feicd": "P60004454",
+					"nameFull": "Harris, James",
 					"nameFirst": "James",
 					"nameLast": "Harris",
 					"party": "SWP",
 					"votes": 445,
-					"percentVotes": 0.03
+					"percent": 0.03
 				},
 				{
 					"feicd": "P80005572",
+					"nameFull": "La Riva, Gloria",
 					"nameFirst": "Gloria",
 					"nameLast": "La Riva",
 					"party": "PSL",
 					"votes": 372,
-					"percentVotes": 0.02
+					"percent": 0.02
 				}
 			]
 		},
 		{
 			"state": "Kansas",
 			"stateAbv": "KS",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "6"
-			},
-			"electoralVotesTotal": "6",
+			"electoralVotes": 6,
 			"popularVoteTotal": 1159971,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 692634,
-					"percentVotes": 59.71
+					"percent": 59.71
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 440726,
-					"percentVotes": 37.99
+					"percent": 37.99
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 20456,
-					"percentVotes": 1.76
+					"percent": 1.76
 				},
 				{
 					"feicd": "P80005499",
+					"nameFull": "Baldwin, Chuck",
 					"nameFirst": "Chuck",
 					"nameLast": "Baldwin",
 					"party": "REF",
 					"votes": 5017,
-					"percentVotes": 0.43
+					"percent": 0.43
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill E.",
 					"nameFirst": "Jill E.",
 					"nameLast": "Stein",
 					"party": "W",
 					"votes": 714,
-					"percentVotes": 0.06
+					"percent": 0.06
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 187,
-					"percentVotes": 0.02
+					"percent": 0.02
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross \\\"Rocky\\\" C.",
+					"nameFull": "Anderson, Ross \"Rocky\" C.",
+					"nameFirst": "Ross \"Rocky\" C.",
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 95,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20002804",
+					"nameFull": "Barr, Roseanne C.",
 					"nameFirst": "Roseanne C.",
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 58,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Bush, Kent W.",
 					"nameFirst": "Kent W.",
 					"nameLast": "Bush",
 					"party": "W",
 					"votes": 48,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002697",
+					"nameFull": "Barnett, Andre",
 					"nameFirst": "Andre",
 					"nameLast": "Barnett",
 					"party": "W",
 					"votes": 19,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 12,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill A.",
 					"nameFirst": "Jill A.",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 4,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005245",
+					"nameFull": "Christensen, Will",
 					"nameFirst": "Will",
 					"nameLast": "Christensen",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Kentucky",
 			"stateAbv": "KY",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "8"
-			},
-			"electoralVotesTotal": "8",
+			"electoralVotes": 8,
 			"popularVoteTotal": 1797212,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1087190,
-					"percentVotes": 60.49
+					"percent": 60.49
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 679370,
-					"percentVotes": 37.8
+					"percent": 37.8
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 17063,
-					"percentVotes": 0.95
+					"percent": 0.95
 				},
 				{
 					"feicd": "P20002424",
+					"nameFull": "Terry, Randall A.",
 					"nameFirst": "Randall A.",
 					"nameLast": "Terry",
 					"party": "IND",
 					"votes": 6872,
-					"percentVotes": 0.38
+					"percent": 0.38
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 6337,
-					"percentVotes": 0.35
+					"percent": 0.35
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 245,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 60,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005252",
+					"nameFull": "Duncan, Richard",
 					"nameFirst": "Richard",
 					"nameLast": "Duncan",
 					"party": "W",
 					"votes": 37,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 30,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004677",
+					"nameFull": "White, Jerry",
 					"nameFirst": "Jerry",
 					"nameLast": "White",
 					"party": "W",
 					"votes": 4,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004651",
+					"nameFull": "Durham, Stephen",
 					"nameFirst": "Stephen",
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "House, Louis Todd",
 					"nameFirst": "Louis Todd",
 					"nameLast": "House",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002218",
+					"nameFull": "Knill, Dennis",
 					"nameFirst": "Dennis",
 					"nameLast": "Knill",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Louisiana",
 			"stateAbv": "LA",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "8"
-			},
-			"electoralVotesTotal": "8",
+			"electoralVotes": 8,
 			"popularVoteTotal": 1994065,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1152262,
-					"percentVotes": 57.78
+					"percent": 57.78
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 809141,
-					"percentVotes": 40.58
+					"percent": 40.58
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 18157,
-					"percentVotes": 0.91
+					"percent": 0.91
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 6978,
-					"percentVotes": 0.35
+					"percent": 0.35
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 2508,
-					"percentVotes": 0.13
+					"percent": 0.13
 				},
 				{
 					"feicd": "P20002630",
+					"nameFull": "Tittle, Sheila",
 					"nameFirst": "Sheila",
 					"nameLast": "Tittle",
 					"party": "WTP",
 					"votes": 1767,
-					"percentVotes": 0.09
+					"percent": 0.09
 				},
 				{
 					"feicd": "P20004263",
+					"nameFull": "Anderson, Ross",
 					"nameFirst": "Ross",
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 1368,
-					"percentVotes": 0.07
+					"percent": 0.07
 				},
 				{
 					"feicd": "P20004636",
+					"nameFull": "Lindsay, Peta",
 					"nameFirst": "Peta",
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 622,
-					"percentVotes": 0.03
+					"percent": 0.03
 				},
 				{
 					"feicd": "P20000089",
+					"nameFull": "Fellure, Jack",
 					"nameFirst": "Jack",
 					"nameLast": "Fellure",
 					"party": "P",
 					"votes": 518,
-					"percentVotes": 0.03
+					"percent": 0.03
 				},
 				{
 					"feicd": "P60004454",
+					"nameFull": "Harris, James",
 					"nameFirst": "James",
 					"nameLast": "Harris",
 					"party": "SWP",
 					"votes": 389,
-					"percentVotes": 0.02
+					"percent": 0.02
 				},
 				{
 					"feicd": "P20004677",
+					"nameFull": "White, Jerry",
 					"nameFirst": "Jerry",
 					"nameLast": "White",
 					"party": "SEP",
 					"votes": 355,
-					"percentVotes": 0.02
+					"percent": 0.02
 				}
 			]
 		},
 		{
 			"state": "Maine",
 			"stateAbv": "ME",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "4"
-			},
-			"electoralVotesTotal": "4",
+			"electoralVotes": 4,
 			"popularVoteTotal": 713180,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 401306,
-					"percentVotes": 56.27
+					"percent": 56.27
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 292276,
-					"percentVotes": 40.98
+					"percent": 40.98
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary E.",
 					"nameFirst": "Gary E.",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 9352,
-					"percentVotes": 1.31
+					"percent": 1.31
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GI",
 					"votes": 8119,
-					"percentVotes": 1.14
+					"percent": 1.14
 				},
 				{
 					"feicd": "P80000748",
+					"nameFull": "Paul, Ronald E.",
 					"nameFirst": "Ronald E.",
 					"nameLast": "Paul",
 					"party": "W",
 					"votes": 2035,
-					"percentVotes": 0.29
+					"percent": 0.29
 				},
 				{
 					"feicd": "P20004263",
+					"nameFull": "Anderson, Ross C.",
 					"nameFirst": "Ross C.",
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 62,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill Ann",
 					"nameFirst": "Jill Ann",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 30,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Maryland",
 			"stateAbv": "MD",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "10"
-			},
-			"electoralVotesTotal": "10",
+			"electoralVotes": 10,
 			"popularVoteTotal": 2707327,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1677844,
-					"percentVotes": 61.97
+					"percent": 61.97
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 971869,
-					"percentVotes": 35.9
+					"percent": 35.9
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 30195,
-					"percentVotes": 1.12
+					"percent": 1.12
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 17110,
-					"percentVotes": 0.63
+					"percent": 0.63
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Other",
 					"nameFirst": "Other",
 					"nameLast": "Other",
 					"party": "W",
 					"votes": 8788,
-					"percentVotes": 0.32
+					"percent": 0.32
 				},
 				{
 					"feicd": "P20005146",
+					"nameFull": "Claus, Santa",
 					"nameFirst": "Santa",
 					"nameLast": "Claus",
 					"party": "W",
 					"votes": 625,
-					"percentVotes": 0.02
+					"percent": 0.02
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 418,
-					"percentVotes": 0.02
+					"percent": 0.02
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 204,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20002804",
+					"nameFull": "Barr, Roseanne",
 					"nameFirst": "Roseanne",
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 64,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Clymer, James",
 					"nameFirst": "James",
 					"nameLast": "Clymer",
 					"party": "W",
 					"votes": 35,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004693",
+					"nameFull": "Miller, Merlin",
 					"nameFirst": "Merlin",
 					"nameLast": "Miller",
 					"party": "W",
 					"votes": 26,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002697",
+					"nameFull": "Barnett, Andre",
 					"nameFirst": "Andre",
 					"nameLast": "Barnett",
 					"party": "W",
 					"votes": 19,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004651",
+					"nameFull": "Durham, Stephen",
 					"nameFirst": "Stephen",
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 19,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004750",
+					"nameFull": "Briscoe, Tiffany Renee",
 					"nameFirst": "Tiffany Renee",
 					"nameLast": "Briscoe",
 					"party": "W",
 					"votes": 18,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Lydick, Matthew",
 					"nameFirst": "Matthew",
 					"nameLast": "Lydick",
 					"party": "W",
 					"votes": 18,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005252",
+					"nameFull": "Duncan, Richard",
 					"nameFirst": "Richard",
 					"nameLast": "Duncan",
 					"party": "W",
 					"votes": 15,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002580",
+					"nameFull": "Chehade, Paul",
 					"nameFirst": "Paul",
 					"nameLast": "Chehade",
 					"party": "W",
 					"votes": 13,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Dickson, Fred Donald, Jr.",
 					"nameFirst": "Fred Donald, Jr.",
 					"nameLast": "Dickson",
 					"party": "W",
 					"votes": 8,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003869",
+					"nameFull": "Crosby, David M.",
 					"nameFirst": "David M.",
 					"nameLast": "Crosby",
 					"party": "W",
 					"votes": 7,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002903",
+					"nameFull": "Hykes, Darrell",
 					"nameFirst": "Darrell",
 					"nameLast": "Hykes",
 					"party": "W",
 					"votes": 7,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 7,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Boyles, Michael David",
 					"nameFirst": "Michael David",
 					"nameLast": "Boyles",
 					"party": "W",
 					"votes": 5,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Keyton, Nelson",
 					"nameFirst": "Nelson",
 					"nameLast": "Keyton",
 					"party": "W",
 					"votes": 3,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "French, Dwight Kenneth",
 					"nameFirst": "Dwight Kenneth",
 					"nameLast": "French",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002218",
+					"nameFull": "Knill, Dennis",
 					"nameFirst": "Dennis",
 					"nameLast": "Knill",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Prokopich, Barbara A.",
 					"nameFirst": "Barbara A.",
 					"nameLast": "Prokopich",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Dietz, Robert William",
 					"nameFirst": "Robert William",
 					"nameLast": "Dietz",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004172",
+					"nameFull": "Morstad, Dean",
 					"nameFirst": "Dean",
 					"nameLast": "Morstad",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004149",
+					"nameFull": "O'Hara, Terrance James",
 					"nameFirst": "Terrance James",
 					"nameLast": "O'Hara",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003836",
+					"nameFull": "Roth, Cecil James",
 					"nameFirst": "Cecil James",
 					"nameLast": "Roth",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Massachusetts",
 			"stateAbv": "MA",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "11"
-			},
-			"electoralVotesTotal": "11",
+			"electoralVotes": 11,
 			"popularVoteTotal": 3167767,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1921290,
-					"percentVotes": 60.65
+					"percent": 60.65
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1188314,
-					"percentVotes": 37.51
+					"percent": 37.51
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 30920,
-					"percentVotes": 0.98
+					"percent": 0.98
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GR",
 					"votes": 20691,
-					"percentVotes": 0.65
+					"percent": 0.65
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "All Others",
 					"nameFirst": "All Others",
 					"nameLast": "All Others",
 					"party": "W",
 					"votes": 6552,
-					"percentVotes": 0.21
+					"percent": 0.21
 				}
 			]
 		},
 		{
 			"state": "Michigan",
 			"stateAbv": "MI",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "16"
-			},
-			"electoralVotesTotal": "16",
+			"electoralVotes": 16,
 			"popularVoteTotal": 4730961,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 2564569,
-					"percentVotes": 54.21
+					"percent": 54.21
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2115256,
-					"percentVotes": 44.71
+					"percent": 44.71
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 21897,
-					"percentVotes": 0.46
+					"percent": 0.46
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil, Jr.",
 					"nameFirst": "Virgil, Jr.",
 					"nameLast": "Goode",
 					"party": "UST",
 					"votes": 16119,
-					"percentVotes": 0.34
+					"percent": 0.34
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "W",
 					"votes": 7774,
-					"percentVotes": 0.16
+					"percent": 0.16
 				},
 				{
 					"feicd": "P20004263",
+					"nameFull": "Anderson, Ross",
 					"nameFirst": "Ross",
 					"nameLast": "Anderson",
 					"party": "NLP",
 					"votes": 5147,
-					"percentVotes": 0.11
+					"percent": 0.11
 				},
 				{
 					"feicd": "P20003968",
+					"nameFull": "Alexander, Stewart",
 					"nameFirst": "Stewart",
 					"nameLast": "Alexander",
 					"party": "W",
 					"votes": 89,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004677",
+					"nameFull": "White, Jerry",
 					"nameFirst": "Jerry",
 					"nameLast": "White",
 					"party": "W",
 					"votes": 68,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 42,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Minnesota",
 			"stateAbv": "MN",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "10"
-			},
-			"electoralVotesTotal": "10",
+			"electoralVotes": 10,
 			"popularVoteTotal": 2936561,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "DFL",
 					"votes": 1546167,
-					"percentVotes": 52.65
+					"percent": 52.65
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1320225,
-					"percentVotes": 44.96
+					"percent": 44.96
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 35098,
-					"percentVotes": 1.2
+					"percent": 1.2
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 13023,
-					"percentVotes": 0.44
+					"percent": 0.44
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 10533,
-					"percentVotes": 0.36
+					"percent": 0.36
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 3722,
-					"percentVotes": 0.13
+					"percent": 0.13
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Carlson, Jim",
 					"nameFirst": "Jim",
 					"nameLast": "Carlson",
 					"party": "GRT",
 					"votes": 3149,
-					"percentVotes": 0.11
+					"percent": 0.11
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 1996,
-					"percentVotes": 0.07
+					"percent": 0.07
 				},
 				{
 					"feicd": "P20004172",
+					"nameFull": "Morstad, Dean",
 					"nameFirst": "Dean",
 					"nameLast": "Morstad",
 					"party": "CG",
 					"votes": 1092,
-					"percentVotes": 0.04
+					"percent": 0.04
 				},
 				{
 					"feicd": "P60004454",
+					"nameFull": "Harris, James",
 					"nameFirst": "James",
 					"nameLast": "Harris",
 					"party": "SWP",
 					"votes": 1051,
-					"percentVotes": 0.04
+					"percent": 0.04
 				},
 				{
 					"feicd": "P20004636",
+					"nameFull": "Lindsay, Peta",
 					"nameFirst": "Peta",
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 397,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20002804",
+					"nameFull": "Barr, Roseanne",
 					"nameFirst": "Roseanne",
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 46,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Prokopich, Barbara",
 					"nameFirst": "Barbara",
 					"nameLast": "Prokopich",
 					"party": "W",
 					"votes": 35,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 14,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 8,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002697",
+					"nameFull": "Barnett, Andre",
 					"nameFirst": "Andre",
 					"nameLast": "Barnett",
 					"party": "W",
 					"votes": 4,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005245",
+					"nameFull": "Christensen, Will",
 					"nameFirst": "Will",
 					"nameLast": "Christensen",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Mississippi",
 			"stateAbv": "MS",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "6"
-			},
-			"electoralVotesTotal": "6",
+			"electoralVotes": 6,
 			"popularVoteTotal": 1285584,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 710746,
-					"percentVotes": 55.29
+					"percent": 55.29
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 562949,
-					"percentVotes": 43.79
+					"percent": 43.79
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 6676,
-					"percentVotes": 0.52
+					"percent": 0.52
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 2609,
-					"percentVotes": 0.2
+					"percent": 0.2
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill A.",
 					"nameFirst": "Jill A.",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 1588,
-					"percentVotes": 0.12
+					"percent": 0.12
 				},
 				{
 					"feicd": "P20005286",
+					"nameFull": "Washer, Barbara Dale",
 					"nameFirst": "Barbara Dale",
 					"nameLast": "Washer",
 					"party": "REF",
 					"votes": 1016,
-					"percentVotes": 0.08
+					"percent": 0.08
 				}
 			]
 		},
 		{
 			"state": "Missouri",
 			"stateAbv": "MO",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "10"
-			},
-			"electoralVotesTotal": "10",
+			"electoralVotes": 10,
 			"popularVoteTotal": 2757323,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1482440,
-					"percentVotes": 53.76
+					"percent": 53.76
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1223796,
-					"percentVotes": 44.38
+					"percent": 44.38
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 43151,
-					"percentVotes": 1.56
+					"percent": 1.56
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 7936,
-					"percentVotes": 0.29
+					"percent": 0.29
 				}
 			]
 		},
 		{
 			"state": "Montana",
 			"stateAbv": "MT",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "3"
-			},
-			"electoralVotesTotal": "3",
+			"electoralVotes": 3,
 			"popularVoteTotal": 484048,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 267928,
-					"percentVotes": 55.35
+					"percent": 55.35
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 201839,
-					"percentVotes": 41.7
+					"percent": 41.7
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 14165,
-					"percentVotes": 2.93
+					"percent": 2.93
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 59,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 39,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20002804",
+					"nameFull": "Barr, Roseanne",
 					"nameFirst": "Roseanne",
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 6,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 5,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003968",
+					"nameFull": "Alexander, Stewart",
 					"nameFirst": "Stewart",
 					"nameLast": "Alexander",
 					"party": "W",
 					"votes": 4,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002697",
+					"nameFull": "Barnett, Andre",
 					"nameFirst": "Andre",
 					"nameLast": "Barnett",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Logsdon, Alexis",
 					"nameFirst": "Alexis",
 					"nameLast": "Logsdon",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Nebraska",
 			"stateAbv": "NE",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "5"
-			},
-			"electoralVotesTotal": "5",
+			"electoralVotes": 5,
 			"popularVoteTotal": 794379,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 475064,
-					"percentVotes": 59.8
+					"percent": 59.8
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 302081,
-					"percentVotes": 38.03
+					"percent": 38.03
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 11109,
-					"percentVotes": 1.4
+					"percent": 1.4
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 3717,
-					"percentVotes": 0.47
+					"percent": 0.47
 				},
 				{
 					"feicd": "P20002424",
+					"nameFull": "Terry, Randall A.",
 					"nameFirst": "Randall A.",
 					"nameLast": "Terry",
 					"party": "BP",
 					"votes": 2408,
-					"percentVotes": 0.3
+					"percent": 0.3
 				}
 			]
 		},
 		{
 			"state": "Nevada",
 			"stateAbv": "NV",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "6"
-			},
-			"electoralVotesTotal": "6",
+			"electoralVotes": 6,
 			"popularVoteTotal": 1014918,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 531373,
-					"percentVotes": 52.36
+					"percent": 52.36
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 463567,
-					"percentVotes": 45.68
+					"percent": 45.68
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 10968,
-					"percentVotes": 1.08
+					"percent": 1.08
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "None of these Candidates",
 					"nameFirst": "None of These Candidates",
 					"nameLast": "None of These Candidates",
-					"party": "none",
 					"votes": 5770,
-					"percentVotes": 0.57
+					"percent": 0.57
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "IAP",
 					"votes": 3240,
-					"percentVotes": 0.32
+					"percent": 0.32
 				}
 			]
 		},
 		{
 			"state": "New Hampshire",
 			"stateAbv": "NH",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "4"
-			},
-			"electoralVotesTotal": "4",
+			"electoralVotes": 4,
 			"popularVoteTotal": 710972,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 369561,
-					"percentVotes": 51.98
+					"percent": 51.98
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 329918,
-					"percentVotes": 46.4
+					"percent": 46.4
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 8212,
-					"percentVotes": 1.16
+					"percent": 1.16
 				},
 				{
 					"feicd": "P80000748",
+					"nameFull": "Paul, Ron",
 					"nameFirst": "Ron",
 					"nameLast": "Paul",
 					"party": "W",
 					"votes": 1374,
-					"percentVotes": 0.19
+					"percent": 0.19
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 875,
-					"percentVotes": 0.12
+					"percent": 0.12
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 708,
-					"percentVotes": 0.1
+					"percent": 0.1
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "W",
 					"votes": 324,
-					"percentVotes": 0.05
+					"percent": 0.05
 				}
 			]
 		},
 		{
 			"state": "New Jersey",
 			"stateAbv": "NJ",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "14"
-			},
-			"electoralVotesTotal": "14",
+			"electoralVotes": 14,
 			"popularVoteTotal": 3640292,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 2125101,
-					"percentVotes": 58.38
+					"percent": 58.38
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1477568,
-					"percentVotes": 40.59
+					"percent": 40.59
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 21045,
-					"percentVotes": 0.58
+					"percent": 0.58
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 9888,
-					"percentVotes": 0.27
+					"percent": 0.27
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 2064,
-					"percentVotes": 0.06
+					"percent": 0.06
 				},
 				{
 					"feicd": "P20004263",
+					"nameFull": "Anderson, Ross C. (Rocky)",
 					"nameFirst": "Ross C. (Rocky)",
 					"nameLast": "Anderson",
 					"party": "NJJ",
 					"votes": 1724,
-					"percentVotes": 0.05
+					"percent": 0.05
 				},
 				{
 					"feicd": "P80005077",
+					"nameFull": "Boss, Jeff",
 					"nameFirst": "Jeff",
 					"nameLast": "Boss",
 					"party": "NSA",
 					"votes": 1007,
-					"percentVotes": 0.03
+					"percent": 0.03
 				},
 				{
 					"feicd": "P60004454",
+					"nameFull": "Harris, James",
 					"nameFirst": "James",
 					"nameLast": "Harris",
 					"party": "SWP",
 					"votes": 710,
-					"percentVotes": 0.02
+					"percent": 0.02
 				},
 				{
 					"feicd": "P20004693",
+					"nameFull": "Miller, Merlin",
 					"nameFirst": "Merlin",
 					"nameLast": "Miller",
 					"party": "ATP",
 					"votes": 664,
-					"percentVotes": 0.02
+					"percent": 0.02
 				},
 				{
 					"feicd": "P20004636",
+					"nameFull": "Lindsay, Peta",
 					"nameFirst": "Peta",
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 521,
-					"percentVotes": 0.01
+					"percent": 0.01
 				}
 			]
 		},
 		{
 			"state": "New Mexico",
 			"stateAbv": "NM",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "5"
-			},
-			"electoralVotesTotal": "5",
+			"electoralVotes": 5,
 			"popularVoteTotal": 783758,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 415335,
-					"percentVotes": 52.99
+					"percent": 52.99
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 335788,
-					"percentVotes": 42.84
+					"percent": 42.84
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 27788,
-					"percentVotes": 3.55
+					"percent": 3.55
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 2691,
-					"percentVotes": 0.34
+					"percent": 0.34
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "NMI",
 					"votes": 1174,
-					"percentVotes": 0.15
+					"percent": 0.15
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 982,
-					"percentVotes": 0.13
+					"percent": 0.13
 				}
 			]
 		},
 		{
 			"state": "New York",
 			"stateAbv": "NY",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "29"
-			},
-			"electoralVotesTotal": "29",
+			"electoralVotes": 29,
 			"popularVoteTotal": 7081159,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
-					"party": "Combined Parties:",
 					"votes": 4485741,
-					"percentVotes": 63.35
+					"percent": 63.35
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 4337622,
-					"percentVotes": 61.26
+					"percent": 61.26
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "WF",
 					"votes": 148119,
-					"percentVotes": 2.09
+					"percent": 2.09
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
-					"party": "Combined Parties:",
 					"votes": 2490431,
-					"percentVotes": 35.17
+					"percent": 35.17
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2228060,
-					"percentVotes": 31.46
+					"percent": 31.46
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "CRV",
 					"votes": 262371,
-					"percentVotes": 3.71
+					"percent": 3.71
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 47256,
-					"percentVotes": 0.67
+					"percent": 0.67
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 39982,
-					"percentVotes": 0.56
+					"percent": 0.56
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 9076,
-					"percentVotes": 0.13
+					"percent": 0.13
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 6274,
-					"percentVotes": 0.09
+					"percent": 0.09
 				},
 				{
 					"feicd": "P20004636",
+					"nameFull": "Lindsay, Peta",
 					"nameFirst": "Peta",
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 2050,
-					"percentVotes": 0.03
+					"percent": 0.03
 				},
 				{
 					"feicd": "P20004263",
+					"nameFull": "Anderson, Ross C.",
 					"nameFirst": "Ross C.",
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 217,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004651",
+					"nameFull": "Durham, Stephen",
 					"nameFirst": "Stephen",
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 34,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 34,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P60004454",
+					"nameFull": "Harris, James",
 					"nameFirst": "James",
 					"nameLast": "Harris",
 					"party": "W",
 					"votes": 27,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004677",
+					"nameFull": "White, Jerry",
 					"nameFirst": "Jerry",
 					"nameLast": "White",
 					"party": "W",
 					"votes": 19,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 12,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004693",
+					"nameFull": "Miller, Merlin",
 					"nameFirst": "Merlin",
 					"nameLast": "Miller",
 					"party": "W",
 					"votes": 6,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "North Carolina",
 			"stateAbv": "NC",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "15"
-			},
-			"electoralVotesTotal": "15",
+			"electoralVotes": 15,
 			"popularVoteTotal": 4505372,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2270395,
-					"percentVotes": 50.39
+					"percent": 50.39
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 2178391,
-					"percentVotes": 48.35
+					"percent": 48.35
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 44515,
-					"percentVotes": 0.99
+					"percent": 0.99
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 11537,
-					"percentVotes": 0.26
+					"percent": 0.26
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 534,
-					"percentVotes": 0.01
+					"percent": 0.01
 				}
 			]
 		},
 		{
 			"state": "North Dakota",
 			"stateAbv": "ND",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "3"
-			},
-			"electoralVotesTotal": "3",
+			"electoralVotes": 3,
 			"popularVoteTotal": 322627,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 188163,
-					"percentVotes": 58.32
+					"percent": 58.32
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "DNL",
 					"votes": 124827,
-					"percentVotes": 38.69
+					"percent": 38.69
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 5231,
-					"percentVotes": 1.62
+					"percent": 1.62
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 1860,
-					"percentVotes": 0.58
+					"percent": 0.58
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 1361,
-					"percentVotes": 0.42
+					"percent": 0.42
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 1185,
-					"percentVotes": 0.37
+					"percent": 0.37
 				}
 			]
 		},
 		{
 			"state": "Ohio",
 			"stateAbv": "OH",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "18"
-			},
-			"electoralVotesTotal": "18",
+			"electoralVotes": 18,
 			"popularVoteTotal": 5580847,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 2827709,
-					"percentVotes": 50.67
+					"percent": 50.67
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2661437,
-					"percentVotes": 47.69
+					"percent": 47.69
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 49493,
-					"percentVotes": 0.89
+					"percent": 0.89
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 18573,
-					"percentVotes": 0.33
+					"percent": 0.33
 				},
 				{
 					"feicd": "P20005252",
+					"nameFull": "Duncan, Richard",
 					"nameFirst": "Richard",
 					"nameLast": "Duncan",
 					"party": "IND",
 					"votes": 12502,
-					"percentVotes": 0.22
+					"percent": 0.22
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 8152,
-					"percentVotes": 0.15
+					"percent": 0.15
 				},
 				{
 					"feicd": "P20003968",
+					"nameFull": "Alexander, Stewart",
 					"nameFirst": "Stewart",
 					"nameLast": "Alexander",
 					"party": "SUS",
 					"votes": 2944,
-					"percentVotes": 0.05
+					"percent": 0.05
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 14,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Vargo, Mike",
 					"nameFirst": "Mike",
 					"nameLast": "Vargo",
 					"party": "W",
 					"votes": 13,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002424",
+					"nameFull": "Terry, Randall",
 					"nameFirst": "Randall",
 					"nameLast": "Terry",
 					"party": "W",
 					"votes": 9,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Daniels, Susan",
 					"nameFirst": "Susan",
 					"nameLast": "Daniels",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Keyton, Nelson",
 					"nameFirst": "Nelson",
 					"nameLast": "Keyton",
 					"party": "W",
 					"votes": 0,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Oklahoma",
 			"stateAbv": "OK",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "7"
-			},
-			"electoralVotesTotal": "7",
+			"electoralVotes": 7,
 			"popularVoteTotal": 1334872,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 891325,
-					"percentVotes": 66.77
+					"percent": 66.77
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 443547,
-					"percentVotes": 33.23
+					"percent": 33.23
 				}
 			]
 		},
 		{
 			"state": "Oregon",
 			"stateAbv": "OR",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "7"
-			},
-			"electoralVotesTotal": "7",
+			"electoralVotes": 7,
 			"popularVoteTotal": 1789270,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 970488,
-					"percentVotes": 54.24
+					"percent": 54.24
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 754175,
-					"percentVotes": 42.15
+					"percent": 42.15
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 24089,
-					"percentVotes": 1.35
+					"percent": 1.35
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "PG",
 					"votes": 19427,
-					"percentVotes": 1.09
+					"percent": 1.09
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Miscellaneous",
 					"nameFirst": "Miscellaneous",
 					"nameLast": "Miscellaneous",
 					"party": "W",
 					"votes": 13275,
-					"percentVotes": 0.74
+					"percent": 0.74
 				},
 				{
 					"feicd": "P20005245",
+					"nameFull": "Christensen, Will",
 					"nameFirst": "Will",
 					"nameLast": "Christensen",
 					"party": "CON",
 					"votes": 4432,
-					"percentVotes": 0.25
+					"percent": 0.25
 				},
 				{
 					"feicd": "P20004263",
+					"nameFull": "Anderson, Ross C. (Rocky)",
 					"nameFirst": "Ross C. (Rocky)",
 					"nameLast": "Anderson",
 					"party": "PRO",
 					"votes": 3384,
-					"percentVotes": 0.19
+					"percent": 0.19
 				}
 			]
 		},
 		{
 			"state": "Pennsylvania",
 			"stateAbv": "PA",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "20"
-			},
-			"electoralVotesTotal": "20",
+			"electoralVotes": 20,
 			"popularVoteTotal": 5753670,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 2990274,
-					"percentVotes": 51.97
+					"percent": 51.97
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2680434,
-					"percentVotes": 46.59
+					"percent": 46.59
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 49991,
-					"percentVotes": 0.87
+					"percent": 0.87
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 21341,
-					"percentVotes": 0.37
+					"percent": 0.37
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 11219,
-					"percentVotes": 0.19
+					"percent": 0.19
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 383,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 28,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Rhode Island",
 			"stateAbv": "RI",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "4"
-			},
-			"electoralVotesTotal": "4",
+			"electoralVotes": 4,
 			"popularVoteTotal": 446049,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 279677,
-					"percentVotes": 62.7
+					"percent": 62.7
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 157204,
-					"percentVotes": 35.24
+					"percent": 35.24
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 4388,
-					"percentVotes": 0.98
+					"percent": 0.98
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 2421,
-					"percentVotes": 0.54
+					"percent": 0.54
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 686,
-					"percentVotes": 0.15
+					"percent": 0.15
 				},
 				{
 					"feicd": "P80000748",
+					"nameFull": "Paul, Ron",
 					"nameFirst": "Ron",
 					"nameLast": "Paul",
 					"party": "W",
 					"votes": 617,
-					"percentVotes": 0.14
+					"percent": 0.14
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 430,
-					"percentVotes": 0.1
+					"percent": 0.1
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 416,
-					"percentVotes": 0.09
+					"percent": 0.09
 				},
 				{
 					"feicd": "P20004636",
+					"nameFull": "Lindsay, Peta",
 					"nameFirst": "Peta",
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 132,
-					"percentVotes": 0.03
+					"percent": 0.03
 				},
 				{
 					"feicd": "P00003392",
+					"nameFull": "Clinton, Hillary",
 					"nameFirst": "Hillary",
 					"nameLast": "Clinton",
 					"party": "W",
 					"votes": 64,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Mouse, Mickey",
 					"nameFirst": "Mickey",
 					"nameLast": "Mouse",
 					"party": "W",
 					"votes": 14,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "South Carolina",
 			"stateAbv": "SC",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "9"
-			},
-			"electoralVotesTotal": "9",
+			"electoralVotes": 9,
 			"popularVoteTotal": 1964118,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1071645,
-					"percentVotes": 54.56
+					"percent": 54.56
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 865941,
-					"percentVotes": 44.09
+					"percent": 44.09
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 16321,
-					"percentVotes": 0.83
+					"percent": 0.83
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 5446,
-					"percentVotes": 0.28
+					"percent": 0.28
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 4765,
-					"percentVotes": 0.24
+					"percent": 0.24
 				}
 			]
 		},
 		{
 			"state": "South Dakota",
 			"stateAbv": "SD",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "3"
-			},
-			"electoralVotesTotal": "3",
+			"electoralVotes": 3,
 			"popularVoteTotal": 363815,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 210610,
-					"percentVotes": 57.89
+					"percent": 57.89
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 145039,
-					"percentVotes": 39.87
+					"percent": 39.87
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 5795,
-					"percentVotes": 1.59
+					"percent": 1.59
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 2371,
-					"percentVotes": 0.65
+					"percent": 0.65
 				}
 			]
 		},
 		{
 			"state": "Tennessee",
 			"stateAbv": "TN",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "11"
-			},
-			"electoralVotesTotal": "11",
+			"electoralVotes": 11,
 			"popularVoteTotal": 2458577,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1462330,
-					"percentVotes": 59.48
+					"percent": 59.48
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 960709,
-					"percentVotes": 39.08
+					"percent": 39.08
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "IND",
 					"votes": 18623,
-					"percentVotes": 0.76
+					"percent": 0.76
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 6515,
-					"percentVotes": 0.26
+					"percent": 0.26
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 6022,
-					"percentVotes": 0.24
+					"percent": 0.24
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "IND",
 					"votes": 2639,
-					"percentVotes": 0.11
+					"percent": 0.11
 				},
 				{
 					"feicd": "P20004693",
+					"nameFull": "Miller, Merlin",
 					"nameFirst": "Merlin",
 					"nameLast": "Miller",
 					"party": "IND",
 					"votes": 1739,
-					"percentVotes": 0.07
+					"percent": 0.07
 				}
 			]
 		},
 		{
 			"state": "Texas",
 			"stateAbv": "TX",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "38"
-			},
-			"electoralVotesTotal": "38",
+			"electoralVotes": 38,
 			"popularVoteTotal": 7993851,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 4569843,
-					"percentVotes": 57.17
+					"percent": 57.17
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 3308124,
-					"percentVotes": 41.38
+					"percent": 41.38
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 88580,
-					"percentVotes": 1.11
+					"percent": 1.11
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 24657,
-					"percentVotes": 0.31
+					"percent": 0.31
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 1287,
-					"percentVotes": 0.02
+					"percent": 0.02
 				},
 				{
 					"feicd": "P20004263",
+					"nameFull": "Anderson, Rocky",
 					"nameFirst": "Rocky",
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 426,
-					"percentVotes": 0.01
+					"percent": 0.01
 				},
 				{
 					"feicd": "P20005260",
+					"nameFull": "Hoefling, Tom",
 					"nameFirst": "Tom",
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 374,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004479",
+					"nameFull": "Ayers, Avery",
 					"nameFirst": "Avery",
 					"nameLast": "Ayers",
 					"party": "W",
 					"votes": 209,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003968",
+					"nameFull": "Alexander, Stewart",
 					"nameFirst": "Stewart",
 					"nameLast": "Alexander",
 					"party": "W",
 					"votes": 162,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Hill, Thaddaus",
 					"nameFirst": "Thaddaus",
 					"nameLast": "Hill",
 					"party": "W",
 					"votes": 102,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002697",
+					"nameFull": "Barnett, Andre N.",
 					"nameFirst": "Andre N.",
 					"nameLast": "Barnett",
 					"party": "W",
 					"votes": 87,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Utah",
 			"stateAbv": "UT",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "6"
-			},
-			"electoralVotesTotal": "6",
+			"electoralVotes": 6,
 			"popularVoteTotal": 1017440,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 740600,
-					"percentVotes": 72.79
+					"percent": 72.79
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 251813,
-					"percentVotes": 24.75
+					"percent": 24.75
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 12572,
-					"percentVotes": 1.24
+					"percent": 1.24
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 5335,
-					"percentVotes": 0.52
+					"percent": 0.52
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 3817,
-					"percentVotes": 0.38
+					"percent": 0.38
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 2871,
-					"percentVotes": 0.28
+					"percent": 0.28
 				},
 				{
 					"feicd": "P80005572",
+					"nameFull": "La Riva, Gloria",
 					"nameFirst": "Gloria",
 					"nameLast": "La Riva",
 					"party": "UN",
 					"votes": 393,
-					"percentVotes": 0.04
+					"percent": 0.04
 				},
 				{
 					"feicd": "P20002804",
+					"nameFull": "Barr, Roseanne",
 					"nameFirst": "Roseanne",
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 18,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 6,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002697",
+					"nameFull": "Barnett, Andre",
 					"nameFirst": "Andre",
 					"nameLast": "Barnett",
 					"party": "W",
 					"votes": 5,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20005245",
+					"nameFull": "Christensen, Will",
 					"nameFirst": "Will",
 					"nameLast": "Christensen",
 					"party": "W",
 					"votes": 5,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Myers, Justin",
 					"nameFirst": "Justin",
 					"nameLast": "Myers",
 					"party": "W",
 					"votes": 2,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004651",
+					"nameFull": "Durham, Stephen",
 					"nameFirst": "Stephen",
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002903",
+					"nameFull": "Hykes, Darrell",
 					"nameFirst": "Darrell",
 					"nameLast": "Hykes",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20004172",
+					"nameFull": "Morstad, Dean",
 					"nameFirst": "Dean",
 					"nameLast": "Morstad",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Vermont",
 			"stateAbv": "VT",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "3"
-			},
-			"electoralVotesTotal": "3",
+			"electoralVotes": 3,
 			"popularVoteTotal": 299290,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 199239,
-					"percentVotes": 66.57
+					"percent": 66.57
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 92698,
-					"percentVotes": 30.97
+					"percent": 30.97
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 3487,
-					"percentVotes": 1.17
+					"percent": 1.17
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 1128,
-					"percentVotes": 0.38
+					"percent": 0.38
 				},
 				{
 					"feicd": "P80000748",
+					"nameFull": "Paul, Ron",
 					"nameFirst": "Ron",
 					"nameLast": "Paul",
 					"party": "W",
 					"votes": 717,
-					"percentVotes": 0.24
+					"percent": 0.24
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 710,
-					"percentVotes": 0.24
+					"percent": 0.24
 				},
 				{
 					"feicd": "P20004636",
+					"nameFull": "Lindsay, Peta",
 					"nameFirst": "Peta",
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 695,
-					"percentVotes": 0.23
+					"percent": 0.23
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "W",
 					"votes": 594,
-					"percentVotes": 0.2
+					"percent": 0.2
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 13,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002804",
+					"nameFull": "Barr, Roseanne",
 					"nameFirst": "Roseanne",
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 9,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Virginia",
 			"stateAbv": "VA",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "13"
-			},
-			"electoralVotesTotal": "13",
+			"electoralVotes": 13,
 			"popularVoteTotal": 3854489,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1971820,
-					"percentVotes": 51.16
+					"percent": 51.16
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1822522,
-					"percentVotes": 47.28
+					"percent": 47.28
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 31216,
-					"percentVotes": 0.81
+					"percent": 0.81
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 13058,
-					"percentVotes": 0.34
+					"percent": 0.34
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 8627,
-					"percentVotes": 0.22
+					"percent": 0.22
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 7151,
-					"percentVotes": 0.19
+					"percent": 0.19
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 76,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20003208",
+					"nameFull": "Reed, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 14,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Glean, Joseph A. / Darlene Herleikson",
 					"nameFirst": "Joseph A. /Darlene Herleikson",
 					"nameLast": "Glean",
 					"party": "W",
 					"votes": 3,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Glean, Joseph A. / Jamie Johnson",
 					"nameFirst": "Joseph A. /Jamie Johnson",
 					"nameLast": "Glean",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002630",
-					"nameFirst": "Sheila \\\"Samm\\\"",
+					"nameFull": "Tittle, Sheila \"Samm\"",
+					"nameFirst": "Sheila \"Samm\"",
 					"nameLast": "Tittle",
 					"party": "W",
 					"votes": 1,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Washington",
 			"stateAbv": "WA",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "12"
-			},
-			"electoralVotesTotal": "12",
+			"electoralVotes": 12,
 			"popularVoteTotal": 3125516,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1755396,
-					"percentVotes": 56.16
+					"percent": 56.16
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1290670,
-					"percentVotes": 41.29
+					"percent": 41.29
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 42202,
-					"percentVotes": 1.35
+					"percent": 1.35
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 20928,
-					"percentVotes": 0.67
+					"percent": 0.67
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 8851,
-					"percentVotes": 0.28
+					"percent": 0.28
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 4946,
-					"percentVotes": 0.16
+					"percent": 0.16
 				},
 				{
 					"feicd": "P20004636",
+					"nameFull": "Lindsay, Peta",
 					"nameFirst": "Peta",
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 1318,
-					"percentVotes": 0.04
+					"percent": 0.04
 				},
 				{
 					"feicd": "P60004454",
+					"nameFull": "Harris, James",
 					"nameFirst": "James",
 					"nameLast": "Harris",
 					"party": "SWP",
 					"votes": 1205,
-					"percentVotes": 0.04
+					"percent": 0.04
 				}
 			]
 		},
 		{
 			"state": "West Virginia",
 			"stateAbv": "WV",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "5"
-			},
-			"electoralVotesTotal": "5",
+			"electoralVotes": 5,
 			"popularVoteTotal": 670438,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 417655,
-					"percentVotes": 62.3
+					"percent": 62.3
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 238269,
-					"percentVotes": 35.54
+					"percent": 35.54
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 6302,
-					"percentVotes": 0.94
+					"percent": 0.94
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "MTP",
 					"votes": 4406,
-					"percentVotes": 0.66
+					"percent": 0.66
 				},
 				{
 					"feicd": "P20002424",
+					"nameFull": "Terry, Randall",
 					"nameFirst": "Randall",
 					"nameLast": "Terry",
 					"party": "NPA",
 					"votes": 3806,
-					"percentVotes": 0.57
+					"percent": 0.57
 				}
 			]
 		},
 		{
 			"state": "Wisconsin",
 			"stateAbv": "WI",
-			"winner": {
-				"nameFirst": "Barack",
-				"nameLast": "Obama",
-				"electoralVotes": "10"
-			},
-			"electoralVotesTotal": "10",
+			"electoralVotes": 10,
 			"popularVoteTotal": 3068434,
 			"candidates": [
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1620985,
-					"percentVotes": 52.83
+					"percent": 52.83
 				},
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1407966,
-					"percentVotes": 45.89
+					"percent": 45.89
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "IND",
 					"votes": 20439,
-					"percentVotes": 0.67
+					"percent": 0.67
 				},
 				{
 					"feicd": "P20003984",
+					"nameFull": "Stein, Jill",
 					"nameFirst": "Jill",
 					"nameLast": "Stein",
 					"party": "IND",
 					"votes": 7665,
-					"percentVotes": 0.25
+					"percent": 0.25
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 5170,
-					"percentVotes": 0.17
+					"percent": 0.17
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil",
 					"nameFirst": "Virgil",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 4930,
-					"percentVotes": 0.16
+					"percent": 0.16
 				},
 				{
 					"feicd": "P20004677",
+					"nameFull": "White, Jerry",
 					"nameFirst": "Jerry",
 					"nameLast": "White",
 					"party": "IND",
 					"votes": 553,
-					"percentVotes": 0.02
+					"percent": 0.02
 				},
 				{
 					"feicd": "P80005572",
+					"nameFull": "La Riva, Gloria",
 					"nameFirst": "Gloria",
 					"nameLast": "La Riva",
 					"party": "IND",
 					"votes": 526,
-					"percentVotes": 0.02
+					"percent": 0.02
 				},
 				{
 					"feicd": "P20004263",
-					"nameFirst": "Ross C. \\\"Rocky\\\"",
+					"nameFull": "Anderson, Ross C. \"Rocky\"",
+					"nameFirst": "Ross C. \"Rocky\"",
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 112,
-					"percentVotes": 0
+					"percent": 0
 				},
 				{
 					"feicd": "P20002804",
+					"nameFull": "Barr, Roseanne",
 					"nameFirst": "Roseanne",
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 88,
-					"percentVotes": 0
+					"percent": 0
 				}
 			]
 		},
 		{
 			"state": "Wyoming",
 			"stateAbv": "WY",
-			"winner": {
-				"nameFirst": "Mitt",
-				"nameLast": "Romney",
-				"electoralVotes": "3"
-			},
-			"electoralVotesTotal": "3",
+			"electoralVotes": 3,
 			"popularVoteTotal": 249061,
 			"candidates": [
 				{
 					"feicd": "P80003353",
+					"nameFull": "Romney, Mitt",
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 170962,
-					"percentVotes": 68.64
+					"percent": 68.64
 				},
 				{
 					"feicd": "P80003338",
+					"nameFull": "Obama, Barack",
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 69286,
-					"percentVotes": 27.82
+					"percent": 27.82
 				},
 				{
 					"feicd": "P20002671",
+					"nameFull": "Johnson, Gary",
 					"nameFirst": "Gary",
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 5326,
-					"percentVotes": 2.14
+					"percent": 2.14
 				},
 				{
 					"feicd": "n/a",
+					"nameFull": "Scattered",
 					"nameFirst": "Scattered",
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 2035,
-					"percentVotes": 0.82
+					"percent": 0.82
 				},
 				{
 					"feicd": "P20004685",
+					"nameFull": "Goode, Virgil H.",
 					"nameFirst": "Virgil H.",
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 1452,
-					"percentVotes": 0.58
+					"percent": 0.58
 				}
 			]
 		}
 	],
-	"partiesKey": [
+	"ballotCandidates": [
+		{
+			"key": 1,
+			"name": "Barack Obama",
+			"party": "Democrat",
+			"popVote": 65915795,
+			"popVotePercent": 51.06
+		},
+		{
+			"key": 2,
+			"name": "Mitt Romney",
+			"party": "Republican",
+			"popVote": 60933504,
+			"popVotePercent": 47.2
+		},
+		{
+			"key": 3,
+			"name": "Gary Johnson",
+			"party": [
+				"Libertarian",
+				" Independent"
+			],
+			"popVote": 1275971,
+			"popVotePercent": 0.99
+		},
+		{
+			"key": 4,
+			"name": "Jill Stein",
+			"party": [
+				"Green",
+				" Pacific Green",
+				" Mountain",
+				" Independent"
+			],
+			"popVote": 469627,
+			"popVotePercent": 0.36
+		},
+		{
+			"key": 5,
+			"name": "Write-In",
+			"party": "Miscellaneous",
+			"popVote": 136040,
+			"popVotePercent": 0.11
+		},
+		{
+			"key": 6,
+			"name": "Virgil Goode",
+			"party": [
+				"Constitution",
+				" Independent American",
+				" U.S. Taxpayers"
+			],
+			"popVote": 122389,
+			"popVotePercent": 0.09
+		},
+		{
+			"key": 7,
+			"name": "Roseann Barr",
+			"party": "Peace and Freedom",
+			"popVote": 67326,
+			"popVotePercent": 0.05
+		},
+		{
+			"key": 8,
+			"name": "Ross C. \"Rocky\" Anderson",
+			"party": [
+				"Justice",
+				" Progressive",
+				" Independent"
+			],
+			"popVote": 43018,
+			"popVotePercent": 0.03
+		},
+		{
+			"key": 9,
+			"name": "Tom Hoefling",
+			"party": [
+				"American Independent",
+				" America's Party"
+			],
+			"popVote": 40628,
+			"popVotePercent": 0.03
+		},
+		{
+			"key": 10,
+			"name": "Randall Terry",
+			"party": "Independent",
+			"popVote": 13107,
+			"popVotePercent": 0.01
+		},
+		{
+			"key": 11,
+			"name": "Richard Duncan",
+			"party": "Independent",
+			"popVote": 12557,
+			"popVotePercent": 0.01
+		},
+		{
+			"key": 12,
+			"name": "Peta Lindsay",
+			"party": "Socialism and Liberation",
+			"popVote": 7791,
+			"popVotePercent": 0.01
+		},
+		{
+			"key": 13,
+			"name": "None of These Candidates",
+			"party": "n/a",
+			"popVote": 5770,
+			"popVotePercent": 0
+		},
+		{
+			"key": 14,
+			"name": "Chuck Baldwin",
+			"party": "Reform",
+			"popVote": 5017,
+			"popVotePercent": 0
+		},
+		{
+			"key": 15,
+			"name": "Will Christensen",
+			"party": "Constitution",
+			"popVote": 4453,
+			"popVotePercent": 0
+		},
+		{
+			"key": 16,
+			"name": "Stewart Alexander",
+			"party": "Socialist",
+			"popVote": 4405,
+			"popVotePercent": 0
+		},
+		{
+			"key": 17,
+			"name": "James Harris",
+			"party": "Socialist Workers",
+			"popVote": 4117,
+			"popVotePercent": 0
+		},
+		{
+			"key": 18,
+			"name": "Thomas Robert Stevens",
+			"party": "Objectivist",
+			"popVote": 4091,
+			"popVotePercent": 0
+		},
+		{
+			"key": 19,
+			"name": "Jim Carlson",
+			"party": "Grassroots",
+			"popVote": 3149,
+			"popVotePercent": 0
+		},
+		{
+			"key": 20,
+			"name": "Jill Reed",
+			"party": "Unaffiliated",
+			"popVote": 2877,
+			"popVotePercent": 0
+		},
+		{
+			"key": 21,
+			"name": "Merlin Miller",
+			"party": [
+				"American Third Position",
+				" Independent"
+			],
+			"popVote": 2701,
+			"popVotePercent": 0
+		},
+		{
+			"key": 22,
+			"name": "Sheila \"Samm\" Tittle",
+			"party": "We the People",
+			"popVote": 2572,
+			"popVotePercent": 0
+		},
+		{
+			"key": 23,
+			"name": "Gloria La Riva",
+			"party": [
+				"Socialism and Liberation",
+				" Independent"
+			],
+			"popVote": 1608,
+			"popVotePercent": 0
+		},
+		{
+			"key": 24,
+			"name": "Jerry White",
+			"party": [
+				"Socialist Equality",
+				" Independent"
+			],
+			"popVote": 1279,
+			"popVotePercent": 0
+		},
+		{
+			"key": 25,
+			"name": "Dean Morstad",
+			"party": "Constitutional Government",
+			"popVote": 1094,
+			"popVotePercent": 0
+		},
+		{
+			"key": 26,
+			"name": "Jerry Litzel",
+			"party": "Independent",
+			"popVote": 1027,
+			"popVotePercent": 0
+		},
+		{
+			"key": 27,
+			"name": "Barbara Dale Washer",
+			"party": "Reform",
+			"popVote": 1016,
+			"popVotePercent": 0
+		},
+		{
+			"key": 28,
+			"name": "Jeff Boss",
+			"party": "NSA Did 911",
+			"popVote": 1007,
+			"popVotePercent": 0
+		},
+		{
+			"key": 29,
+			"name": "Andre Barnett",
+			"party": "Reform",
+			"popVote": 956,
+			"popVotePercent": 0
+		},
+		{
+			"key": 30,
+			"name": "Jack Fellure",
+			"party": "Prohibition",
+			"popVote": 518,
+			"popVotePercent": 0
+		}
+	],
+	"partyKey": [
 		{
 			"AA": "Abundant America"
 		},

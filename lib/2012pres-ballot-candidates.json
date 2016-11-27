@@ -1,0 +1,240 @@
+[
+	{
+		"key": 1,
+		"name": "Barack Obama",
+		"party": "Democrat",
+		"popVote": 65915795,
+		"popVotePercent": 51.06
+	},
+	{
+		"key": 2,
+		"name": "Mitt Romney",
+		"party": "Republican",
+		"popVote": 60933504,
+		"popVotePercent": 47.2
+	},
+	{
+		"key": 3,
+		"name": "Gary Johnson",
+		"party": [
+			"Libertarian",
+			" Independent"
+		],
+		"popVote": 1275971,
+		"popVotePercent": 0.99
+	},
+	{
+		"key": 4,
+		"name": "Jill Stein",
+		"party": [
+			"Green",
+			" Pacific Green",
+			" Mountain",
+			" Independent"
+		],
+		"popVote": 469627,
+		"popVotePercent": 0.36
+	},
+	{
+		"key": 5,
+		"name": "Write-In",
+		"party": "Miscellaneous",
+		"popVote": 136040,
+		"popVotePercent": 0.11
+	},
+	{
+		"key": 6,
+		"name": "Virgil Goode",
+		"party": [
+			"Constitution",
+			" Independent American",
+			" U.S. Taxpayers"
+		],
+		"popVote": 122389,
+		"popVotePercent": 0.09
+	},
+	{
+		"key": 7,
+		"name": "Roseann Barr",
+		"party": "Peace and Freedom",
+		"popVote": 67326,
+		"popVotePercent": 0.05
+	},
+	{
+		"key": 8,
+		"name": "Ross C. \"Rocky\" Anderson",
+		"party": [
+			"Justice",
+			" Progressive",
+			" Independent"
+		],
+		"popVote": 43018,
+		"popVotePercent": 0.03
+	},
+	{
+		"key": 9,
+		"name": "Tom Hoefling",
+		"party": [
+			"American Independent",
+			" America's Party"
+		],
+		"popVote": 40628,
+		"popVotePercent": 0.03
+	},
+	{
+		"key": 10,
+		"name": "Randall Terry",
+		"party": "Independent",
+		"popVote": 13107,
+		"popVotePercent": 0.01
+	},
+	{
+		"key": 11,
+		"name": "Richard Duncan",
+		"party": "Independent",
+		"popVote": 12557,
+		"popVotePercent": 0.01
+	},
+	{
+		"key": 12,
+		"name": "Peta Lindsay",
+		"party": "Socialism and Liberation",
+		"popVote": 7791,
+		"popVotePercent": 0.01
+	},
+	{
+		"key": 13,
+		"name": "None of These Candidates",
+		"party": "n/a",
+		"popVote": 5770,
+		"popVotePercent": 0
+	},
+	{
+		"key": 14,
+		"name": "Chuck Baldwin",
+		"party": "Reform",
+		"popVote": 5017,
+		"popVotePercent": 0
+	},
+	{
+		"key": 15,
+		"name": "Will Christensen",
+		"party": "Constitution",
+		"popVote": 4453,
+		"popVotePercent": 0
+	},
+	{
+		"key": 16,
+		"name": "Stewart Alexander",
+		"party": "Socialist",
+		"popVote": 4405,
+		"popVotePercent": 0
+	},
+	{
+		"key": 17,
+		"name": "James Harris",
+		"party": "Socialist Workers",
+		"popVote": 4117,
+		"popVotePercent": 0
+	},
+	{
+		"key": 18,
+		"name": "Thomas Robert Stevens",
+		"party": "Objectivist",
+		"popVote": 4091,
+		"popVotePercent": 0
+	},
+	{
+		"key": 19,
+		"name": "Jim Carlson",
+		"party": "Grassroots",
+		"popVote": 3149,
+		"popVotePercent": 0
+	},
+	{
+		"key": 20,
+		"name": "Jill Reed",
+		"party": "Unaffiliated",
+		"popVote": 2877,
+		"popVotePercent": 0
+	},
+	{
+		"key": 21,
+		"name": "Merlin Miller",
+		"party": [
+			"American Third Position",
+			" Independent"
+		],
+		"popVote": 2701,
+		"popVotePercent": 0
+	},
+	{
+		"key": 22,
+		"name": "Sheila \"Samm\" Tittle",
+		"party": "We the People",
+		"popVote": 2572,
+		"popVotePercent": 0
+	},
+	{
+		"key": 23,
+		"name": "Gloria La Riva",
+		"party": [
+			"Socialism and Liberation",
+			" Independent"
+		],
+		"popVote": 1608,
+		"popVotePercent": 0
+	},
+	{
+		"key": 24,
+		"name": "Jerry White",
+		"party": [
+			"Socialist Equality",
+			" Independent"
+		],
+		"popVote": 1279,
+		"popVotePercent": 0
+	},
+	{
+		"key": 25,
+		"name": "Dean Morstad",
+		"party": "Constitutional Government",
+		"popVote": 1094,
+		"popVotePercent": 0
+	},
+	{
+		"key": 26,
+		"name": "Jerry Litzel",
+		"party": "Independent",
+		"popVote": 1027,
+		"popVotePercent": 0
+	},
+	{
+		"key": 27,
+		"name": "Barbara Dale Washer",
+		"party": "Reform",
+		"popVote": 1016,
+		"popVotePercent": 0
+	},
+	{
+		"key": 28,
+		"name": "Jeff Boss",
+		"party": "NSA Did 911",
+		"popVote": 1007,
+		"popVotePercent": 0
+	},
+	{
+		"key": 29,
+		"name": "Andre Barnett",
+		"party": "Reform",
+		"popVote": 956,
+		"popVotePercent": 0
+	},
+	{
+		"key": 30,
+		"name": "Jack Fellure",
+		"party": "Prohibition",
+		"popVote": 518,
+		"popVotePercent": 0
+	}
+]

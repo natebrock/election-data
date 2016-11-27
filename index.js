@@ -3,20 +3,16 @@
 'use strict';
 
 const _ = require('underscore');
-
+const toArray = require('./toArray.js')
+const partyKey = require('./partyKey.js');
+const ballotCandidates = require('./lib/2012pres-ballot-candidates.json')
 module.exports = function Election() {
   const data = require('./lib/2012pres.json');
 
-  this.getState = function (states) {
+  this.states = function (states) {
     let stateData;
 
-    if (!_.isArray(states)) {
-      if (typeof states === 'undefined') {
-        states = [];
-      } else {
-        states = states.split();
-      }
-    }
+    states = toArray(states);
 
     let getAll = states.length === 0 ? true : false;
 
@@ -31,4 +27,9 @@ module.exports = function Election() {
 
     return stateData;
   };
+
+  this.candidates = function candidates() {
+    return ballotCandidates;
+  }
+
 };

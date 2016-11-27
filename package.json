@@ -1,6 +1,6 @@
 {
   "name": "election-data",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "U.S. Election Data from the Federal Election Commission",
   "main": "index.js",
   "scripts": {
