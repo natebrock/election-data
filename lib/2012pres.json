@@ -15,7 +15,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1255925,
-					"percent": 60.55
+					"percent": 60.55,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -24,7 +25,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 795696,
-					"percent": 38.36
+					"percent": 38.36,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -33,7 +35,8 @@
 					"nameLast": "Johnson",
 					"party": "IND",
 					"votes": 12328,
-					"percent": 0.59
+					"percent": 0.59,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -42,7 +45,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 4011,
-					"percent": 0.19
+					"percent": 0.19,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -51,7 +55,8 @@
 					"nameLast": "Stein",
 					"party": "IND",
 					"votes": 3397,
-					"percent": 0.16
+					"percent": 0.16,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -60,7 +65,8 @@
 					"nameLast": "Goode",
 					"party": "IND",
 					"votes": 2981,
-					"percent": 0.14
+					"percent": 0.14,
+					"win": false
 				}
 			]
 		},
@@ -77,7 +83,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 164676,
-					"percent": 54.8
+					"percent": 54.8,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -86,7 +93,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 122640,
-					"percent": 40.81
+					"percent": 40.81,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -95,7 +103,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 7392,
-					"percent": 2.46
+					"percent": 2.46,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -104,7 +113,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 2917,
-					"percent": 0.97
+					"percent": 0.97,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -113,7 +123,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 2870,
-					"percent": 0.96
+					"percent": 0.96,
+					"win": false
 				}
 			]
 		},
@@ -130,7 +141,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1233654,
-					"percent": 53.65
+					"percent": 53.65,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -139,7 +151,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1025232,
-					"percent": 44.59
+					"percent": 44.59,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -148,7 +161,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 32100,
-					"percent": 1.4
+					"percent": 1.4,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -157,7 +171,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 7816,
-					"percent": 0.34
+					"percent": 0.34,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -166,7 +181,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 289,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -175,7 +191,8 @@
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 119,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -184,7 +201,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 17,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005245",
@@ -193,7 +211,8 @@
 					"nameLast": "Christensen",
 					"party": "W",
 					"votes": 14,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002218",
@@ -202,7 +221,8 @@
 					"nameLast": "Knill",
 					"party": "W",
 					"votes": 7,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002630",
@@ -211,7 +231,8 @@
 					"nameLast": "Tittle",
 					"party": "W",
 					"votes": 6,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -228,7 +249,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 647744,
-					"percent": 60.57
+					"percent": 60.57,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -237,7 +259,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 394409,
-					"percent": 36.88
+					"percent": 36.88,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -246,7 +269,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 16276,
-					"percent": 1.52
+					"percent": 1.52,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -255,7 +279,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 9305,
-					"percent": 0.87
+					"percent": 0.87,
+					"win": false
 				},
 				{
 					"feicd": "P20004636",
@@ -264,7 +289,8 @@
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 1734,
-					"percent": 0.16
+					"percent": 0.16,
+					"win": false
 				}
 			]
 		},
@@ -281,7 +307,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 7854285,
-					"percent": 60.24
+					"percent": 60.24,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -290,7 +317,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 4839958,
-					"percent": 37.12
+					"percent": 37.12,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -299,7 +327,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 143221,
-					"percent": 1.1
+					"percent": 1.1,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -308,7 +337,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 85638,
-					"percent": 0.66
+					"percent": 0.66,
+					"win": false
 				},
 				{
 					"feicd": "P20002804",
@@ -317,7 +347,8 @@
 					"nameLast": "Barr",
 					"party": "PFP",
 					"votes": 53824,
-					"percent": 0.41
+					"percent": 0.41,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -326,7 +357,8 @@
 					"nameLast": "Hoefling",
 					"party": "AIP",
 					"votes": 38372,
-					"percent": 0.29
+					"percent": 0.29,
+					"win": false
 				},
 				{
 					"feicd": "P80000748",
@@ -335,7 +367,8 @@
 					"nameLast": "Paul",
 					"party": "W",
 					"votes": 21461,
-					"percent": 0.16
+					"percent": 0.16,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -344,7 +377,8 @@
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 992,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -353,7 +387,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 503,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003968",
@@ -362,7 +397,8 @@
 					"nameLast": "Alexander",
 					"party": "W",
 					"votes": 82,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004677",
@@ -371,7 +407,8 @@
 					"nameLast": "White",
 					"party": "W",
 					"votes": 79,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P60004454",
@@ -380,7 +417,8 @@
 					"nameLast": "Harris",
 					"party": "W",
 					"votes": 72,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004651",
@@ -389,7 +427,8 @@
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 54,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002630",
@@ -398,7 +437,8 @@
 					"nameLast": "Tittle",
 					"party": "W",
 					"votes": 6,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -415,7 +455,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1323102,
-					"percent": 51.49
+					"percent": 51.49,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -424,7 +465,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1185243,
-					"percent": 46.13
+					"percent": 46.13,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -433,7 +475,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 35545,
-					"percent": 1.38
+					"percent": 1.38,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -442,7 +485,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 7508,
-					"percent": 0.29
+					"percent": 0.29,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -451,7 +495,8 @@
 					"nameLast": "Goode",
 					"party": "AMC",
 					"votes": 6234,
-					"percent": 0.24
+					"percent": 0.24,
+					"win": false
 				},
 				{
 					"feicd": "P20002804",
@@ -460,7 +505,8 @@
 					"nameLast": "Barr",
 					"party": "PFP",
 					"votes": 5059,
-					"percent": 0.2
+					"percent": 0.2,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -469,7 +515,8 @@
 					"nameLast": "Reed",
 					"party": "UN",
 					"votes": 2589,
-					"percent": 0.1
+					"percent": 0.1,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -478,7 +525,8 @@
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 1260,
-					"percent": 0.05
+					"percent": 0.05,
+					"win": false
 				},
 				{
 					"feicd": "P20002630",
@@ -487,7 +535,8 @@
 					"nameLast": "Tittle",
 					"party": "WTP",
 					"votes": 792,
-					"percent": 0.03
+					"percent": 0.03,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -496,7 +545,8 @@
 					"nameLast": "Hoefling",
 					"party": "AMP",
 					"votes": 679,
-					"percent": 0.03
+					"percent": 0.03,
+					"win": false
 				},
 				{
 					"feicd": "P80005572",
@@ -505,7 +555,8 @@
 					"nameLast": "La Riva",
 					"party": "SLP",
 					"votes": 317,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20003968",
@@ -514,7 +565,8 @@
 					"nameLast": "Alexander",
 					"party": "SUS",
 					"votes": 308,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20004693",
@@ -523,7 +575,8 @@
 					"nameLast": "Miller",
 					"party": "ATP",
 					"votes": 266,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P80005655",
@@ -532,7 +585,8 @@
 					"nameLast": "Stevens",
 					"party": "OBJ",
 					"votes": 235,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P60004454",
@@ -541,7 +595,8 @@
 					"nameLast": "Harris",
 					"party": "SWP",
 					"votes": 192,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20004677",
@@ -550,7 +605,8 @@
 					"nameLast": "White",
 					"party": "SEP",
 					"votes": 189,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20002424",
@@ -559,7 +615,8 @@
 					"nameLast": "Terry",
 					"party": "W",
 					"votes": 4,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -576,7 +633,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 905083,
-					"percent": 58.06
+					"percent": 58.06,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -585,7 +643,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 634892,
-					"percent": 40.73
+					"percent": 40.73,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -594,7 +653,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 12580,
-					"percent": 0.81
+					"percent": 0.81,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -603,7 +663,8 @@
 					"nameLast": "Anderson",
 					"party": "IP",
 					"votes": 5487,
-					"percent": 0.35
+					"percent": 0.35,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -612,7 +673,8 @@
 					"nameLast": "Stein",
 					"party": "W",
 					"votes": 863,
-					"percent": 0.06
+					"percent": 0.06,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -621,7 +683,8 @@
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 25,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -630,7 +693,8 @@
 					"nameLast": "Warner",
 					"party": "W",
 					"votes": 19,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P60004454",
@@ -639,7 +703,8 @@
 					"nameLast": "Harris",
 					"party": "W",
 					"votes": 5,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -648,7 +713,8 @@
 					"nameLast": "Sizemore",
 					"party": "W",
 					"votes": 5,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004651",
@@ -657,7 +723,8 @@
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -674,7 +741,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 242584,
-					"percent": 58.61
+					"percent": 58.61,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -683,7 +751,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 165484,
-					"percent": 39.98
+					"percent": 39.98,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -692,7 +761,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 3882,
-					"percent": 0.94
+					"percent": 0.94,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -701,7 +771,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 1940,
-					"percent": 0.47
+					"percent": 0.47,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -710,7 +781,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 23,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -719,7 +791,8 @@
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 7,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -728,7 +801,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -745,7 +819,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 267070,
-					"percent": 90.91
+					"percent": 90.91,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -754,7 +829,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 21381,
-					"percent": 7.28
+					"percent": 7.28,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -763,7 +839,8 @@
 					"nameLast": "Stein",
 					"party": "DCG",
 					"votes": 2458,
-					"percent": 0.84
+					"percent": 0.84,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -772,7 +849,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 2083,
-					"percent": 0.71
+					"percent": 0.71,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -781,7 +859,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 772,
-					"percent": 0.26
+					"percent": 0.26,
+					"win": false
 				}
 			]
 		},
@@ -798,7 +877,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 4237756,
-					"percent": 50.01
+					"percent": 50.01,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -807,7 +887,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 4163447,
-					"percent": 49.13
+					"percent": 49.13,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -816,7 +897,8 @@
 					"nameLast": "Johnson",
 					"party": "LBF",
 					"votes": 44726,
-					"percent": 0.53
+					"percent": 0.53,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -825,7 +907,8 @@
 					"nameLast": "Stein",
 					"party": "GPF",
 					"votes": 8947,
-					"percent": 0.11
+					"percent": 0.11,
+					"win": false
 				},
 				{
 					"feicd": "P20002804",
@@ -834,7 +917,8 @@
 					"nameLast": "Barr",
 					"party": "PFF",
 					"votes": 8154,
-					"percent": 0.1
+					"percent": 0.1,
+					"win": false
 				},
 				{
 					"feicd": "P80005655",
@@ -843,7 +927,8 @@
 					"nameLast": "Stevens",
 					"party": "OBF",
 					"votes": 3856,
-					"percent": 0.05
+					"percent": 0.05,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -852,7 +937,8 @@
 					"nameLast": "Goode",
 					"party": "CPF",
 					"votes": 2607,
-					"percent": 0.03
+					"percent": 0.03,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -861,7 +947,8 @@
 					"nameLast": "Anderson",
 					"party": "JPF",
 					"votes": 1754,
-					"percent": 0.02
+					"percent": 0.02,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -870,7 +957,8 @@
 					"nameLast": "Hoefling",
 					"party": "APF",
 					"votes": 946,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20002697",
@@ -879,7 +967,8 @@
 					"nameLast": "Barnett",
 					"party": "REF",
 					"votes": 820,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20003968",
@@ -888,7 +977,8 @@
 					"nameLast": "Alexander",
 					"party": "SFL",
 					"votes": 799,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20004636",
@@ -897,7 +987,8 @@
 					"nameLast": "Lindsay",
 					"party": "SLF",
 					"votes": 322,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -906,7 +997,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 36,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005252",
@@ -915,7 +1007,8 @@
 					"nameLast": "Duncan",
 					"party": "W",
 					"votes": 3,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004651",
@@ -924,7 +1017,8 @@
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 3,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002648",
@@ -933,7 +1027,8 @@
 					"nameLast": "Magee",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -942,7 +1037,8 @@
 					"nameLast": "Coniglio",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -959,7 +1055,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2078688,
-					"percent": 53.3
+					"percent": 53.3,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -968,7 +1065,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1773827,
-					"percent": 45.48
+					"percent": 45.48,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -977,7 +1075,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 45324,
-					"percent": 1.16
+					"percent": 1.16,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -986,7 +1085,8 @@
 					"nameLast": "Stein",
 					"party": "W",
 					"votes": 1516,
-					"percent": 0.04
+					"percent": 0.04,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -995,7 +1095,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 432,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -1004,7 +1105,8 @@
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 154,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002903",
@@ -1013,7 +1115,8 @@
 					"nameLast": "Hykes",
 					"party": "W",
 					"votes": 55,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1022,7 +1125,8 @@
 					"nameLast": "Reid",
 					"party": "W",
 					"votes": 30,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P60004454",
@@ -1031,7 +1135,8 @@
 					"nameLast": "Harris",
 					"party": "W",
 					"votes": 21,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1040,7 +1145,8 @@
 					"nameLast": "Byrne",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002648",
@@ -1049,7 +1155,8 @@
 					"nameLast": "Magee",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -1066,7 +1173,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 306658,
-					"percent": 70.55
+					"percent": 70.55,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -1075,7 +1183,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 121015,
-					"percent": 27.84
+					"percent": 27.84,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -1084,7 +1193,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 3840,
-					"percent": 0.88
+					"percent": 0.88,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -1093,7 +1203,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 3184,
-					"percent": 0.73
+					"percent": 0.73,
+					"win": false
 				}
 			]
 		},
@@ -1110,7 +1221,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 420911,
-					"percent": 64.53
+					"percent": 64.53,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -1119,7 +1231,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 212787,
-					"percent": 32.62
+					"percent": 32.62,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -1128,7 +1241,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 9453,
-					"percent": 1.45
+					"percent": 1.45,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -1137,7 +1251,8 @@
 					"nameLast": "Stein",
 					"party": "IND",
 					"votes": 4402,
-					"percent": 0.67
+					"percent": 0.67,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -1146,7 +1261,8 @@
 					"nameLast": "Anderson",
 					"party": "IND",
 					"votes": 2499,
-					"percent": 0.38
+					"percent": 0.38,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -1155,7 +1271,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 2222,
-					"percent": 0.34
+					"percent": 0.34,
+					"win": false
 				}
 			]
 		},
@@ -1172,7 +1289,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 3019512,
-					"percent": 57.6
+					"percent": 57.6,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -1181,7 +1299,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2135216,
-					"percent": 40.73
+					"percent": 40.73,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -1190,7 +1309,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 56229,
-					"percent": 1.07
+					"percent": 1.07,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -1199,7 +1319,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 30222,
-					"percent": 0.58
+					"percent": 0.58,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -1208,7 +1329,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 233,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -1217,7 +1339,8 @@
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 185,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -1226,7 +1349,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 182,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -1235,7 +1359,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 121,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -1244,7 +1369,8 @@
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 22,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004974",
@@ -1253,7 +1379,8 @@
 					"nameLast": "Hawkins",
 					"party": "W",
 					"votes": 16,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1262,7 +1389,8 @@
 					"nameLast": "Cary",
 					"party": "W",
 					"votes": 14,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -1271,7 +1399,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 10,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004677",
@@ -1280,7 +1409,8 @@
 					"nameLast": "White",
 					"party": "W",
 					"votes": 8,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003836",
@@ -1289,7 +1419,8 @@
 					"nameLast": "Roth",
 					"party": "W",
 					"votes": 5,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1298,7 +1429,8 @@
 					"nameLast": "Scherrer",
 					"party": "W",
 					"votes": 5,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1307,7 +1439,8 @@
 					"nameLast": "Clymer",
 					"party": "W",
 					"votes": 4,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1316,7 +1449,8 @@
 					"nameLast": "Prokopich",
 					"party": "W",
 					"votes": 4,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004677",
@@ -1325,7 +1459,8 @@
 					"nameLast": "White",
 					"party": "W",
 					"votes": 4,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -1334,7 +1469,8 @@
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 3,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002218",
@@ -1343,7 +1479,8 @@
 					"nameLast": "Knill",
 					"party": "W",
 					"votes": 3,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1352,7 +1489,8 @@
 					"nameLast": "Tyree",
 					"party": "W",
 					"votes": 3,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002580",
@@ -1361,7 +1499,8 @@
 					"nameLast": "Chehade",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002580",
@@ -1370,7 +1509,8 @@
 					"nameLast": "Chehade",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004651",
@@ -1379,7 +1519,8 @@
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1388,7 +1529,8 @@
 					"nameLast": "Maxwell",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1397,7 +1539,8 @@
 					"nameLast": "Struck",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004651",
@@ -1406,7 +1549,8 @@
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1415,7 +1559,8 @@
 					"nameLast": "Ellis",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1424,7 +1569,8 @@
 					"nameLast": "Frost",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -1441,7 +1587,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1420543,
-					"percent": 54.13
+					"percent": 54.13,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -1450,7 +1597,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1152887,
-					"percent": 43.93
+					"percent": 43.93,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -1459,7 +1607,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 50111,
-					"percent": 1.91
+					"percent": 1.91,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -1468,7 +1617,8 @@
 					"nameLast": "Stein",
 					"party": "W",
 					"votes": 625,
-					"percent": 0.02
+					"percent": 0.02,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -1477,7 +1627,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 290,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -1486,7 +1637,8 @@
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 35,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003968",
@@ -1495,7 +1647,8 @@
 					"nameLast": "Alexander",
 					"party": "W",
 					"votes": 17,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -1504,7 +1657,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 8,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002424",
@@ -1513,7 +1667,8 @@
 					"nameLast": "Terry",
 					"party": "W",
 					"votes": 8,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002218",
@@ -1522,7 +1677,8 @@
 					"nameLast": "Knill",
 					"party": "W",
 					"votes": 7,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002499",
@@ -1531,7 +1687,8 @@
 					"nameLast": "Dummett",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004669",
@@ -1540,7 +1697,8 @@
 					"nameLast": "Lopez",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -1557,7 +1715,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 822544,
-					"percent": 51.99
+					"percent": 51.99,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -1566,7 +1725,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 730617,
-					"percent": 46.18
+					"percent": 46.18,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -1575,7 +1735,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 12926,
-					"percent": 0.82
+					"percent": 0.82,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1584,7 +1745,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 7442,
-					"percent": 0.47
+					"percent": 0.47,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -1593,7 +1755,8 @@
 					"nameLast": "Stein",
 					"party": "IG",
 					"votes": 3769,
-					"percent": 0.24
+					"percent": 0.24,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -1602,7 +1765,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 3038,
-					"percent": 0.19
+					"percent": 0.19,
+					"win": false
 				},
 				{
 					"feicd": "P20005278",
@@ -1611,7 +1775,8 @@
 					"nameLast": "Litzel",
 					"party": "NP",
 					"votes": 1027,
-					"percent": 0.06
+					"percent": 0.06,
+					"win": false
 				},
 				{
 					"feicd": "P60004454",
@@ -1620,7 +1785,8 @@
 					"nameLast": "Harris",
 					"party": "SWP",
 					"votes": 445,
-					"percent": 0.03
+					"percent": 0.03,
+					"win": false
 				},
 				{
 					"feicd": "P80005572",
@@ -1629,7 +1795,8 @@
 					"nameLast": "La Riva",
 					"party": "PSL",
 					"votes": 372,
-					"percent": 0.02
+					"percent": 0.02,
+					"win": false
 				}
 			]
 		},
@@ -1646,7 +1813,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 692634,
-					"percent": 59.71
+					"percent": 59.71,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -1655,7 +1823,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 440726,
-					"percent": 37.99
+					"percent": 37.99,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -1664,7 +1833,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 20456,
-					"percent": 1.76
+					"percent": 1.76,
+					"win": false
 				},
 				{
 					"feicd": "P80005499",
@@ -1673,7 +1843,8 @@
 					"nameLast": "Baldwin",
 					"party": "REF",
 					"votes": 5017,
-					"percent": 0.43
+					"percent": 0.43,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -1682,7 +1853,8 @@
 					"nameLast": "Stein",
 					"party": "W",
 					"votes": 714,
-					"percent": 0.06
+					"percent": 0.06,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -1691,7 +1863,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 187,
-					"percent": 0.02
+					"percent": 0.02,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -1700,7 +1873,8 @@
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 95,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20002804",
@@ -1709,7 +1883,8 @@
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 58,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1718,7 +1893,8 @@
 					"nameLast": "Bush",
 					"party": "W",
 					"votes": 48,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002697",
@@ -1727,7 +1903,8 @@
 					"nameLast": "Barnett",
 					"party": "W",
 					"votes": 19,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -1736,7 +1913,8 @@
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 12,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -1745,7 +1923,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 4,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005245",
@@ -1754,7 +1933,8 @@
 					"nameLast": "Christensen",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -1771,7 +1951,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1087190,
-					"percent": 60.49
+					"percent": 60.49,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -1780,7 +1961,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 679370,
-					"percent": 37.8
+					"percent": 37.8,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -1789,7 +1971,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 17063,
-					"percent": 0.95
+					"percent": 0.95,
+					"win": false
 				},
 				{
 					"feicd": "P20002424",
@@ -1798,7 +1981,8 @@
 					"nameLast": "Terry",
 					"party": "IND",
 					"votes": 6872,
-					"percent": 0.38
+					"percent": 0.38,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -1807,7 +1991,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 6337,
-					"percent": 0.35
+					"percent": 0.35,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -1816,7 +2001,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 245,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -1825,7 +2011,8 @@
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 60,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005252",
@@ -1834,7 +2021,8 @@
 					"nameLast": "Duncan",
 					"party": "W",
 					"votes": 37,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -1843,7 +2031,8 @@
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 30,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004677",
@@ -1852,7 +2041,8 @@
 					"nameLast": "White",
 					"party": "W",
 					"votes": 4,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004651",
@@ -1861,7 +2051,8 @@
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -1870,7 +2061,8 @@
 					"nameLast": "House",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002218",
@@ -1879,7 +2071,8 @@
 					"nameLast": "Knill",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -1896,7 +2089,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1152262,
-					"percent": 57.78
+					"percent": 57.78,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -1905,7 +2099,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 809141,
-					"percent": 40.58
+					"percent": 40.58,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -1914,7 +2109,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 18157,
-					"percent": 0.91
+					"percent": 0.91,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -1923,7 +2119,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 6978,
-					"percent": 0.35
+					"percent": 0.35,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -1932,7 +2129,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 2508,
-					"percent": 0.13
+					"percent": 0.13,
+					"win": false
 				},
 				{
 					"feicd": "P20002630",
@@ -1941,7 +2139,8 @@
 					"nameLast": "Tittle",
 					"party": "WTP",
 					"votes": 1767,
-					"percent": 0.09
+					"percent": 0.09,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -1950,7 +2149,8 @@
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 1368,
-					"percent": 0.07
+					"percent": 0.07,
+					"win": false
 				},
 				{
 					"feicd": "P20004636",
@@ -1959,7 +2159,8 @@
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 622,
-					"percent": 0.03
+					"percent": 0.03,
+					"win": false
 				},
 				{
 					"feicd": "P20000089",
@@ -1968,7 +2169,8 @@
 					"nameLast": "Fellure",
 					"party": "P",
 					"votes": 518,
-					"percent": 0.03
+					"percent": 0.03,
+					"win": false
 				},
 				{
 					"feicd": "P60004454",
@@ -1977,7 +2179,8 @@
 					"nameLast": "Harris",
 					"party": "SWP",
 					"votes": 389,
-					"percent": 0.02
+					"percent": 0.02,
+					"win": false
 				},
 				{
 					"feicd": "P20004677",
@@ -1986,7 +2189,8 @@
 					"nameLast": "White",
 					"party": "SEP",
 					"votes": 355,
-					"percent": 0.02
+					"percent": 0.02,
+					"win": false
 				}
 			]
 		},
@@ -2003,7 +2207,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 401306,
-					"percent": 56.27
+					"percent": 56.27,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -2012,7 +2217,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 292276,
-					"percent": 40.98
+					"percent": 40.98,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -2021,7 +2227,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 9352,
-					"percent": 1.31
+					"percent": 1.31,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -2030,7 +2237,8 @@
 					"nameLast": "Stein",
 					"party": "GI",
 					"votes": 8119,
-					"percent": 1.14
+					"percent": 1.14,
+					"win": false
 				},
 				{
 					"feicd": "P80000748",
@@ -2039,7 +2247,8 @@
 					"nameLast": "Paul",
 					"party": "W",
 					"votes": 2035,
-					"percent": 0.29
+					"percent": 0.29,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -2048,7 +2257,8 @@
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 62,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -2057,7 +2267,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 30,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -2074,7 +2285,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1677844,
-					"percent": 61.97
+					"percent": 61.97,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -2083,7 +2295,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 971869,
-					"percent": 35.9
+					"percent": 35.9,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -2092,7 +2305,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 30195,
-					"percent": 1.12
+					"percent": 1.12,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -2101,7 +2315,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 17110,
-					"percent": 0.63
+					"percent": 0.63,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2110,7 +2325,8 @@
 					"nameLast": "Other",
 					"party": "W",
 					"votes": 8788,
-					"percent": 0.32
+					"percent": 0.32,
+					"win": false
 				},
 				{
 					"feicd": "P20005146",
@@ -2119,7 +2335,8 @@
 					"nameLast": "Claus",
 					"party": "W",
 					"votes": 625,
-					"percent": 0.02
+					"percent": 0.02,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -2128,7 +2345,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 418,
-					"percent": 0.02
+					"percent": 0.02,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -2137,7 +2355,8 @@
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 204,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20002804",
@@ -2146,7 +2365,8 @@
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 64,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2155,7 +2375,8 @@
 					"nameLast": "Clymer",
 					"party": "W",
 					"votes": 35,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004693",
@@ -2164,7 +2385,8 @@
 					"nameLast": "Miller",
 					"party": "W",
 					"votes": 26,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002697",
@@ -2173,7 +2395,8 @@
 					"nameLast": "Barnett",
 					"party": "W",
 					"votes": 19,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004651",
@@ -2182,7 +2405,8 @@
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 19,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004750",
@@ -2191,7 +2415,8 @@
 					"nameLast": "Briscoe",
 					"party": "W",
 					"votes": 18,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2200,7 +2425,8 @@
 					"nameLast": "Lydick",
 					"party": "W",
 					"votes": 18,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005252",
@@ -2209,7 +2435,8 @@
 					"nameLast": "Duncan",
 					"party": "W",
 					"votes": 15,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002580",
@@ -2218,7 +2445,8 @@
 					"nameLast": "Chehade",
 					"party": "W",
 					"votes": 13,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2227,7 +2455,8 @@
 					"nameLast": "Dickson",
 					"party": "W",
 					"votes": 8,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003869",
@@ -2236,7 +2465,8 @@
 					"nameLast": "Crosby",
 					"party": "W",
 					"votes": 7,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002903",
@@ -2245,7 +2475,8 @@
 					"nameLast": "Hykes",
 					"party": "W",
 					"votes": 7,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -2254,7 +2485,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 7,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2263,7 +2495,8 @@
 					"nameLast": "Boyles",
 					"party": "W",
 					"votes": 5,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2272,7 +2505,8 @@
 					"nameLast": "Keyton",
 					"party": "W",
 					"votes": 3,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2281,7 +2515,8 @@
 					"nameLast": "French",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002218",
@@ -2290,7 +2525,8 @@
 					"nameLast": "Knill",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2299,7 +2535,8 @@
 					"nameLast": "Prokopich",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2308,7 +2545,8 @@
 					"nameLast": "Dietz",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004172",
@@ -2317,7 +2555,8 @@
 					"nameLast": "Morstad",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004149",
@@ -2326,7 +2565,8 @@
 					"nameLast": "O'Hara",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003836",
@@ -2335,7 +2575,8 @@
 					"nameLast": "Roth",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -2352,7 +2593,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1921290,
-					"percent": 60.65
+					"percent": 60.65,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -2361,7 +2603,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1188314,
-					"percent": 37.51
+					"percent": 37.51,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -2370,7 +2613,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 30920,
-					"percent": 0.98
+					"percent": 0.98,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -2379,7 +2623,8 @@
 					"nameLast": "Stein",
 					"party": "GR",
 					"votes": 20691,
-					"percent": 0.65
+					"percent": 0.65,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2388,7 +2633,8 @@
 					"nameLast": "All Others",
 					"party": "W",
 					"votes": 6552,
-					"percent": 0.21
+					"percent": 0.21,
+					"win": false
 				}
 			]
 		},
@@ -2405,7 +2651,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 2564569,
-					"percent": 54.21
+					"percent": 54.21,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -2414,7 +2661,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2115256,
-					"percent": 44.71
+					"percent": 44.71,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -2423,7 +2671,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 21897,
-					"percent": 0.46
+					"percent": 0.46,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -2432,7 +2681,8 @@
 					"nameLast": "Goode",
 					"party": "UST",
 					"votes": 16119,
-					"percent": 0.34
+					"percent": 0.34,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -2441,7 +2691,8 @@
 					"nameLast": "Johnson",
 					"party": "W",
 					"votes": 7774,
-					"percent": 0.16
+					"percent": 0.16,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -2450,7 +2701,8 @@
 					"nameLast": "Anderson",
 					"party": "NLP",
 					"votes": 5147,
-					"percent": 0.11
+					"percent": 0.11,
+					"win": false
 				},
 				{
 					"feicd": "P20003968",
@@ -2459,7 +2711,8 @@
 					"nameLast": "Alexander",
 					"party": "W",
 					"votes": 89,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004677",
@@ -2468,7 +2721,8 @@
 					"nameLast": "White",
 					"party": "W",
 					"votes": 68,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -2477,7 +2731,8 @@
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 42,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -2494,7 +2749,8 @@
 					"nameLast": "Obama",
 					"party": "DFL",
 					"votes": 1546167,
-					"percent": 52.65
+					"percent": 52.65,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -2503,7 +2759,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1320225,
-					"percent": 44.96
+					"percent": 44.96,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -2512,7 +2769,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 35098,
-					"percent": 1.2
+					"percent": 1.2,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -2521,7 +2779,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 13023,
-					"percent": 0.44
+					"percent": 0.44,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2530,7 +2789,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 10533,
-					"percent": 0.36
+					"percent": 0.36,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -2539,7 +2799,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 3722,
-					"percent": 0.13
+					"percent": 0.13,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2548,7 +2809,8 @@
 					"nameLast": "Carlson",
 					"party": "GRT",
 					"votes": 3149,
-					"percent": 0.11
+					"percent": 0.11,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -2557,7 +2819,8 @@
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 1996,
-					"percent": 0.07
+					"percent": 0.07,
+					"win": false
 				},
 				{
 					"feicd": "P20004172",
@@ -2566,7 +2829,8 @@
 					"nameLast": "Morstad",
 					"party": "CG",
 					"votes": 1092,
-					"percent": 0.04
+					"percent": 0.04,
+					"win": false
 				},
 				{
 					"feicd": "P60004454",
@@ -2575,7 +2839,8 @@
 					"nameLast": "Harris",
 					"party": "SWP",
 					"votes": 1051,
-					"percent": 0.04
+					"percent": 0.04,
+					"win": false
 				},
 				{
 					"feicd": "P20004636",
@@ -2584,7 +2849,8 @@
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 397,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20002804",
@@ -2593,7 +2859,8 @@
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 46,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2602,7 +2869,8 @@
 					"nameLast": "Prokopich",
 					"party": "W",
 					"votes": 35,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -2611,7 +2879,8 @@
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 14,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -2620,7 +2889,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 8,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002697",
@@ -2629,7 +2899,8 @@
 					"nameLast": "Barnett",
 					"party": "W",
 					"votes": 4,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005245",
@@ -2638,7 +2909,8 @@
 					"nameLast": "Christensen",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -2655,7 +2927,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 710746,
-					"percent": 55.29
+					"percent": 55.29,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -2664,7 +2937,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 562949,
-					"percent": 43.79
+					"percent": 43.79,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -2673,7 +2947,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 6676,
-					"percent": 0.52
+					"percent": 0.52,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -2682,7 +2957,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 2609,
-					"percent": 0.2
+					"percent": 0.2,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -2691,7 +2967,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 1588,
-					"percent": 0.12
+					"percent": 0.12,
+					"win": false
 				},
 				{
 					"feicd": "P20005286",
@@ -2700,7 +2977,8 @@
 					"nameLast": "Washer",
 					"party": "REF",
 					"votes": 1016,
-					"percent": 0.08
+					"percent": 0.08,
+					"win": false
 				}
 			]
 		},
@@ -2717,7 +2995,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1482440,
-					"percent": 53.76
+					"percent": 53.76,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -2726,7 +3005,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1223796,
-					"percent": 44.38
+					"percent": 44.38,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -2735,7 +3015,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 43151,
-					"percent": 1.56
+					"percent": 1.56,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -2744,7 +3025,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 7936,
-					"percent": 0.29
+					"percent": 0.29,
+					"win": false
 				}
 			]
 		},
@@ -2761,7 +3043,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 267928,
-					"percent": 55.35
+					"percent": 55.35,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -2770,7 +3053,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 201839,
-					"percent": 41.7
+					"percent": 41.7,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -2779,7 +3063,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 14165,
-					"percent": 2.93
+					"percent": 2.93,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -2788,7 +3073,8 @@
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 59,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -2797,7 +3083,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 39,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20002804",
@@ -2806,7 +3093,8 @@
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 6,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -2815,7 +3103,8 @@
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 5,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003968",
@@ -2824,7 +3113,8 @@
 					"nameLast": "Alexander",
 					"party": "W",
 					"votes": 4,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002697",
@@ -2833,7 +3123,8 @@
 					"nameLast": "Barnett",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2842,7 +3133,8 @@
 					"nameLast": "Logsdon",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -2859,7 +3151,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 475064,
-					"percent": 59.8
+					"percent": 59.8,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -2868,7 +3161,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 302081,
-					"percent": 38.03
+					"percent": 38.03,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -2877,7 +3171,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 11109,
-					"percent": 1.4
+					"percent": 1.4,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2886,7 +3181,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 3717,
-					"percent": 0.47
+					"percent": 0.47,
+					"win": false
 				},
 				{
 					"feicd": "P20002424",
@@ -2895,7 +3191,8 @@
 					"nameLast": "Terry",
 					"party": "BP",
 					"votes": 2408,
-					"percent": 0.3
+					"percent": 0.3,
+					"win": false
 				}
 			]
 		},
@@ -2912,7 +3209,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 531373,
-					"percent": 52.36
+					"percent": 52.36,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -2921,7 +3219,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 463567,
-					"percent": 45.68
+					"percent": 45.68,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -2930,7 +3229,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 10968,
-					"percent": 1.08
+					"percent": 1.08,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -2938,7 +3238,8 @@
 					"nameFirst": "None of These Candidates",
 					"nameLast": "None of These Candidates",
 					"votes": 5770,
-					"percent": 0.57
+					"percent": 0.57,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -2947,7 +3248,8 @@
 					"nameLast": "Goode",
 					"party": "IAP",
 					"votes": 3240,
-					"percent": 0.32
+					"percent": 0.32,
+					"win": false
 				}
 			]
 		},
@@ -2964,7 +3266,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 369561,
-					"percent": 51.98
+					"percent": 51.98,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -2973,7 +3276,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 329918,
-					"percent": 46.4
+					"percent": 46.4,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -2982,7 +3286,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 8212,
-					"percent": 1.16
+					"percent": 1.16,
+					"win": false
 				},
 				{
 					"feicd": "P80000748",
@@ -2991,7 +3296,8 @@
 					"nameLast": "Paul",
 					"party": "W",
 					"votes": 1374,
-					"percent": 0.19
+					"percent": 0.19,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -3000,7 +3306,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 875,
-					"percent": 0.12
+					"percent": 0.12,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -3009,7 +3316,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 708,
-					"percent": 0.1
+					"percent": 0.1,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -3018,7 +3326,8 @@
 					"nameLast": "Stein",
 					"party": "W",
 					"votes": 324,
-					"percent": 0.05
+					"percent": 0.05,
+					"win": false
 				}
 			]
 		},
@@ -3035,7 +3344,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 2125101,
-					"percent": 58.38
+					"percent": 58.38,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -3044,7 +3354,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1477568,
-					"percent": 40.59
+					"percent": 40.59,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -3053,7 +3364,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 21045,
-					"percent": 0.58
+					"percent": 0.58,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -3062,7 +3374,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 9888,
-					"percent": 0.27
+					"percent": 0.27,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -3071,7 +3384,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 2064,
-					"percent": 0.06
+					"percent": 0.06,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -3080,7 +3394,8 @@
 					"nameLast": "Anderson",
 					"party": "NJJ",
 					"votes": 1724,
-					"percent": 0.05
+					"percent": 0.05,
+					"win": false
 				},
 				{
 					"feicd": "P80005077",
@@ -3089,7 +3404,8 @@
 					"nameLast": "Boss",
 					"party": "NSA",
 					"votes": 1007,
-					"percent": 0.03
+					"percent": 0.03,
+					"win": false
 				},
 				{
 					"feicd": "P60004454",
@@ -3098,7 +3414,8 @@
 					"nameLast": "Harris",
 					"party": "SWP",
 					"votes": 710,
-					"percent": 0.02
+					"percent": 0.02,
+					"win": false
 				},
 				{
 					"feicd": "P20004693",
@@ -3107,7 +3424,8 @@
 					"nameLast": "Miller",
 					"party": "ATP",
 					"votes": 664,
-					"percent": 0.02
+					"percent": 0.02,
+					"win": false
 				},
 				{
 					"feicd": "P20004636",
@@ -3116,7 +3434,8 @@
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 521,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				}
 			]
 		},
@@ -3133,7 +3452,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 415335,
-					"percent": 52.99
+					"percent": 52.99,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -3142,7 +3462,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 335788,
-					"percent": 42.84
+					"percent": 42.84,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -3151,7 +3472,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 27788,
-					"percent": 3.55
+					"percent": 3.55,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -3160,7 +3482,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 2691,
-					"percent": 0.34
+					"percent": 0.34,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -3169,7 +3492,8 @@
 					"nameLast": "Anderson",
 					"party": "NMI",
 					"votes": 1174,
-					"percent": 0.15
+					"percent": 0.15,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -3178,7 +3502,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 982,
-					"percent": 0.13
+					"percent": 0.13,
+					"win": false
 				}
 			]
 		},
@@ -3194,7 +3519,8 @@
 					"nameFirst": "Barack",
 					"nameLast": "Obama",
 					"votes": 4485741,
-					"percent": 63.35
+					"percent": 63.35,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -3203,7 +3529,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 4337622,
-					"percent": 61.26
+					"percent": 61.26,
+					"win": false
 				},
 				{
 					"feicd": "P80003338",
@@ -3212,7 +3539,8 @@
 					"nameLast": "Obama",
 					"party": "WF",
 					"votes": 148119,
-					"percent": 2.09
+					"percent": 2.09,
+					"win": false
 				},
 				{
 					"feicd": "P80003353",
@@ -3220,7 +3548,8 @@
 					"nameFirst": "Mitt",
 					"nameLast": "Romney",
 					"votes": 2490431,
-					"percent": 35.17
+					"percent": 35.17,
+					"win": false
 				},
 				{
 					"feicd": "P80003353",
@@ -3229,7 +3558,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2228060,
-					"percent": 31.46
+					"percent": 31.46,
+					"win": false
 				},
 				{
 					"feicd": "P80003353",
@@ -3238,7 +3568,8 @@
 					"nameLast": "Romney",
 					"party": "CRV",
 					"votes": 262371,
-					"percent": 3.71
+					"percent": 3.71,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -3247,7 +3578,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 47256,
-					"percent": 0.67
+					"percent": 0.67,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -3256,7 +3588,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 39982,
-					"percent": 0.56
+					"percent": 0.56,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -3265,7 +3598,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 9076,
-					"percent": 0.13
+					"percent": 0.13,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -3274,7 +3608,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 6274,
-					"percent": 0.09
+					"percent": 0.09,
+					"win": false
 				},
 				{
 					"feicd": "P20004636",
@@ -3283,7 +3618,8 @@
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 2050,
-					"percent": 0.03
+					"percent": 0.03,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -3292,7 +3628,8 @@
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 217,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004651",
@@ -3301,7 +3638,8 @@
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 34,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -3310,7 +3648,8 @@
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 34,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P60004454",
@@ -3319,7 +3658,8 @@
 					"nameLast": "Harris",
 					"party": "W",
 					"votes": 27,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004677",
@@ -3328,7 +3668,8 @@
 					"nameLast": "White",
 					"party": "W",
 					"votes": 19,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -3337,7 +3678,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 12,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004693",
@@ -3346,7 +3688,8 @@
 					"nameLast": "Miller",
 					"party": "W",
 					"votes": 6,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -3363,7 +3706,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2270395,
-					"percent": 50.39
+					"percent": 50.39,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -3372,7 +3716,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 2178391,
-					"percent": 48.35
+					"percent": 48.35,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -3381,7 +3726,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 44515,
-					"percent": 0.99
+					"percent": 0.99,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -3390,7 +3736,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 11537,
-					"percent": 0.26
+					"percent": 0.26,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -3399,7 +3746,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 534,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				}
 			]
 		},
@@ -3416,7 +3764,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 188163,
-					"percent": 58.32
+					"percent": 58.32,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -3425,7 +3774,8 @@
 					"nameLast": "Obama",
 					"party": "DNL",
 					"votes": 124827,
-					"percent": 38.69
+					"percent": 38.69,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -3434,7 +3784,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 5231,
-					"percent": 1.62
+					"percent": 1.62,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -3443,7 +3794,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 1860,
-					"percent": 0.58
+					"percent": 0.58,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -3452,7 +3804,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 1361,
-					"percent": 0.42
+					"percent": 0.42,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -3461,7 +3814,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 1185,
-					"percent": 0.37
+					"percent": 0.37,
+					"win": false
 				}
 			]
 		},
@@ -3478,7 +3832,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 2827709,
-					"percent": 50.67
+					"percent": 50.67,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -3487,7 +3842,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2661437,
-					"percent": 47.69
+					"percent": 47.69,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -3496,7 +3852,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 49493,
-					"percent": 0.89
+					"percent": 0.89,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -3505,7 +3862,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 18573,
-					"percent": 0.33
+					"percent": 0.33,
+					"win": false
 				},
 				{
 					"feicd": "P20005252",
@@ -3514,7 +3872,8 @@
 					"nameLast": "Duncan",
 					"party": "IND",
 					"votes": 12502,
-					"percent": 0.22
+					"percent": 0.22,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -3523,7 +3882,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 8152,
-					"percent": 0.15
+					"percent": 0.15,
+					"win": false
 				},
 				{
 					"feicd": "P20003968",
@@ -3532,7 +3892,8 @@
 					"nameLast": "Alexander",
 					"party": "SUS",
 					"votes": 2944,
-					"percent": 0.05
+					"percent": 0.05,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -3541,7 +3902,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 14,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -3550,7 +3912,8 @@
 					"nameLast": "Vargo",
 					"party": "W",
 					"votes": 13,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002424",
@@ -3559,7 +3922,8 @@
 					"nameLast": "Terry",
 					"party": "W",
 					"votes": 9,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -3568,7 +3932,8 @@
 					"nameLast": "Daniels",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -3577,7 +3942,8 @@
 					"nameLast": "Keyton",
 					"party": "W",
 					"votes": 0,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -3594,7 +3960,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 891325,
-					"percent": 66.77
+					"percent": 66.77,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -3603,7 +3970,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 443547,
-					"percent": 33.23
+					"percent": 33.23,
+					"win": false
 				}
 			]
 		},
@@ -3620,7 +3988,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 970488,
-					"percent": 54.24
+					"percent": 54.24,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -3629,7 +3998,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 754175,
-					"percent": 42.15
+					"percent": 42.15,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -3638,7 +4008,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 24089,
-					"percent": 1.35
+					"percent": 1.35,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -3647,7 +4018,8 @@
 					"nameLast": "Stein",
 					"party": "PG",
 					"votes": 19427,
-					"percent": 1.09
+					"percent": 1.09,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -3656,7 +4028,8 @@
 					"nameLast": "Miscellaneous",
 					"party": "W",
 					"votes": 13275,
-					"percent": 0.74
+					"percent": 0.74,
+					"win": false
 				},
 				{
 					"feicd": "P20005245",
@@ -3665,7 +4038,8 @@
 					"nameLast": "Christensen",
 					"party": "CON",
 					"votes": 4432,
-					"percent": 0.25
+					"percent": 0.25,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -3674,7 +4048,8 @@
 					"nameLast": "Anderson",
 					"party": "PRO",
 					"votes": 3384,
-					"percent": 0.19
+					"percent": 0.19,
+					"win": false
 				}
 			]
 		},
@@ -3691,7 +4066,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 2990274,
-					"percent": 51.97
+					"percent": 51.97,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -3700,7 +4076,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 2680434,
-					"percent": 46.59
+					"percent": 46.59,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -3709,7 +4086,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 49991,
-					"percent": 0.87
+					"percent": 0.87,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -3718,7 +4096,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 21341,
-					"percent": 0.37
+					"percent": 0.37,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -3727,7 +4106,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 11219,
-					"percent": 0.19
+					"percent": 0.19,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -3736,7 +4116,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 383,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -3745,7 +4126,8 @@
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 28,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -3762,7 +4144,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 279677,
-					"percent": 62.7
+					"percent": 62.7,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -3771,7 +4154,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 157204,
-					"percent": 35.24
+					"percent": 35.24,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -3780,7 +4164,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 4388,
-					"percent": 0.98
+					"percent": 0.98,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -3789,7 +4174,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 2421,
-					"percent": 0.54
+					"percent": 0.54,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -3798,7 +4184,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 686,
-					"percent": 0.15
+					"percent": 0.15,
+					"win": false
 				},
 				{
 					"feicd": "P80000748",
@@ -3807,7 +4194,8 @@
 					"nameLast": "Paul",
 					"party": "W",
 					"votes": 617,
-					"percent": 0.14
+					"percent": 0.14,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -3816,7 +4204,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 430,
-					"percent": 0.1
+					"percent": 0.1,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -3825,7 +4214,8 @@
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 416,
-					"percent": 0.09
+					"percent": 0.09,
+					"win": false
 				},
 				{
 					"feicd": "P20004636",
@@ -3834,7 +4224,8 @@
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 132,
-					"percent": 0.03
+					"percent": 0.03,
+					"win": false
 				},
 				{
 					"feicd": "P00003392",
@@ -3843,7 +4234,8 @@
 					"nameLast": "Clinton",
 					"party": "W",
 					"votes": 64,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -3852,7 +4244,8 @@
 					"nameLast": "Mouse",
 					"party": "W",
 					"votes": 14,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -3869,7 +4262,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1071645,
-					"percent": 54.56
+					"percent": 54.56,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -3878,7 +4272,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 865941,
-					"percent": 44.09
+					"percent": 44.09,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -3887,7 +4282,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 16321,
-					"percent": 0.83
+					"percent": 0.83,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -3896,7 +4292,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 5446,
-					"percent": 0.28
+					"percent": 0.28,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -3905,7 +4302,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 4765,
-					"percent": 0.24
+					"percent": 0.24,
+					"win": false
 				}
 			]
 		},
@@ -3922,7 +4320,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 210610,
-					"percent": 57.89
+					"percent": 57.89,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -3931,7 +4330,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 145039,
-					"percent": 39.87
+					"percent": 39.87,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -3940,7 +4340,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 5795,
-					"percent": 1.59
+					"percent": 1.59,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -3949,7 +4350,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 2371,
-					"percent": 0.65
+					"percent": 0.65,
+					"win": false
 				}
 			]
 		},
@@ -3966,7 +4368,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1462330,
-					"percent": 59.48
+					"percent": 59.48,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -3975,7 +4378,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 960709,
-					"percent": 39.08
+					"percent": 39.08,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -3984,7 +4388,8 @@
 					"nameLast": "Johnson",
 					"party": "IND",
 					"votes": 18623,
-					"percent": 0.76
+					"percent": 0.76,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -3993,7 +4398,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 6515,
-					"percent": 0.26
+					"percent": 0.26,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -4002,7 +4408,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 6022,
-					"percent": 0.24
+					"percent": 0.24,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -4011,7 +4418,8 @@
 					"nameLast": "Anderson",
 					"party": "IND",
 					"votes": 2639,
-					"percent": 0.11
+					"percent": 0.11,
+					"win": false
 				},
 				{
 					"feicd": "P20004693",
@@ -4020,7 +4428,8 @@
 					"nameLast": "Miller",
 					"party": "IND",
 					"votes": 1739,
-					"percent": 0.07
+					"percent": 0.07,
+					"win": false
 				}
 			]
 		},
@@ -4037,7 +4446,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 4569843,
-					"percent": 57.17
+					"percent": 57.17,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -4046,7 +4456,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 3308124,
-					"percent": 41.38
+					"percent": 41.38,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -4055,7 +4466,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 88580,
-					"percent": 1.11
+					"percent": 1.11,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -4064,7 +4476,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 24657,
-					"percent": 0.31
+					"percent": 0.31,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -4073,7 +4486,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 1287,
-					"percent": 0.02
+					"percent": 0.02,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -4082,7 +4496,8 @@
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 426,
-					"percent": 0.01
+					"percent": 0.01,
+					"win": false
 				},
 				{
 					"feicd": "P20005260",
@@ -4091,7 +4506,8 @@
 					"nameLast": "Hoefling",
 					"party": "W",
 					"votes": 374,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004479",
@@ -4100,7 +4516,8 @@
 					"nameLast": "Ayers",
 					"party": "W",
 					"votes": 209,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003968",
@@ -4109,7 +4526,8 @@
 					"nameLast": "Alexander",
 					"party": "W",
 					"votes": 162,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -4118,7 +4536,8 @@
 					"nameLast": "Hill",
 					"party": "W",
 					"votes": 102,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002697",
@@ -4127,7 +4546,8 @@
 					"nameLast": "Barnett",
 					"party": "W",
 					"votes": 87,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -4144,7 +4564,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 740600,
-					"percent": 72.79
+					"percent": 72.79,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -4153,7 +4574,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 251813,
-					"percent": 24.75
+					"percent": 24.75,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -4162,7 +4584,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 12572,
-					"percent": 1.24
+					"percent": 1.24,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -4171,7 +4594,8 @@
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 5335,
-					"percent": 0.52
+					"percent": 0.52,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -4180,7 +4604,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 3817,
-					"percent": 0.38
+					"percent": 0.38,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -4189,7 +4614,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 2871,
-					"percent": 0.28
+					"percent": 0.28,
+					"win": false
 				},
 				{
 					"feicd": "P80005572",
@@ -4198,7 +4624,8 @@
 					"nameLast": "La Riva",
 					"party": "UN",
 					"votes": 393,
-					"percent": 0.04
+					"percent": 0.04,
+					"win": false
 				},
 				{
 					"feicd": "P20002804",
@@ -4207,7 +4634,8 @@
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 18,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -4216,7 +4644,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 6,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002697",
@@ -4225,7 +4654,8 @@
 					"nameLast": "Barnett",
 					"party": "W",
 					"votes": 5,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20005245",
@@ -4234,7 +4664,8 @@
 					"nameLast": "Christensen",
 					"party": "W",
 					"votes": 5,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -4243,7 +4674,8 @@
 					"nameLast": "Myers",
 					"party": "W",
 					"votes": 2,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004651",
@@ -4252,7 +4684,8 @@
 					"nameLast": "Durham",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002903",
@@ -4261,7 +4694,8 @@
 					"nameLast": "Hykes",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20004172",
@@ -4270,7 +4704,8 @@
 					"nameLast": "Morstad",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -4287,7 +4722,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 199239,
-					"percent": 66.57
+					"percent": 66.57,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -4296,7 +4732,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 92698,
-					"percent": 30.97
+					"percent": 30.97,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -4305,7 +4742,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 3487,
-					"percent": 1.17
+					"percent": 1.17,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -4314,7 +4752,8 @@
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 1128,
-					"percent": 0.38
+					"percent": 0.38,
+					"win": false
 				},
 				{
 					"feicd": "P80000748",
@@ -4323,7 +4762,8 @@
 					"nameLast": "Paul",
 					"party": "W",
 					"votes": 717,
-					"percent": 0.24
+					"percent": 0.24,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -4332,7 +4772,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 710,
-					"percent": 0.24
+					"percent": 0.24,
+					"win": false
 				},
 				{
 					"feicd": "P20004636",
@@ -4341,7 +4782,8 @@
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 695,
-					"percent": 0.23
+					"percent": 0.23,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -4350,7 +4792,8 @@
 					"nameLast": "Stein",
 					"party": "W",
 					"votes": 594,
-					"percent": 0.2
+					"percent": 0.2,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -4359,7 +4802,8 @@
 					"nameLast": "Goode",
 					"party": "W",
 					"votes": 13,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002804",
@@ -4368,7 +4812,8 @@
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 9,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -4385,7 +4830,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1971820,
-					"percent": 51.16
+					"percent": 51.16,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -4394,7 +4840,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1822522,
-					"percent": 47.28
+					"percent": 47.28,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -4403,7 +4850,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 31216,
-					"percent": 0.81
+					"percent": 0.81,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -4412,7 +4860,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 13058,
-					"percent": 0.34
+					"percent": 0.34,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -4421,7 +4870,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 8627,
-					"percent": 0.22
+					"percent": 0.22,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -4430,7 +4880,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 7151,
-					"percent": 0.19
+					"percent": 0.19,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -4439,7 +4890,8 @@
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 76,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20003208",
@@ -4448,7 +4900,8 @@
 					"nameLast": "Reed",
 					"party": "W",
 					"votes": 14,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -4457,7 +4910,8 @@
 					"nameLast": "Glean",
 					"party": "W",
 					"votes": 3,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -4466,7 +4920,8 @@
 					"nameLast": "Glean",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002630",
@@ -4475,7 +4930,8 @@
 					"nameLast": "Tittle",
 					"party": "W",
 					"votes": 1,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -4492,7 +4948,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1755396,
-					"percent": 56.16
+					"percent": 56.16,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -4501,7 +4958,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1290670,
-					"percent": 41.29
+					"percent": 41.29,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -4510,7 +4968,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 42202,
-					"percent": 1.35
+					"percent": 1.35,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -4519,7 +4978,8 @@
 					"nameLast": "Stein",
 					"party": "GRE",
 					"votes": 20928,
-					"percent": 0.67
+					"percent": 0.67,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -4528,7 +4988,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 8851,
-					"percent": 0.28
+					"percent": 0.28,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -4537,7 +4998,8 @@
 					"nameLast": "Anderson",
 					"party": "JUS",
 					"votes": 4946,
-					"percent": 0.16
+					"percent": 0.16,
+					"win": false
 				},
 				{
 					"feicd": "P20004636",
@@ -4546,7 +5008,8 @@
 					"nameLast": "Lindsay",
 					"party": "SLP",
 					"votes": 1318,
-					"percent": 0.04
+					"percent": 0.04,
+					"win": false
 				},
 				{
 					"feicd": "P60004454",
@@ -4555,7 +5018,8 @@
 					"nameLast": "Harris",
 					"party": "SWP",
 					"votes": 1205,
-					"percent": 0.04
+					"percent": 0.04,
+					"win": false
 				}
 			]
 		},
@@ -4572,7 +5036,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 417655,
-					"percent": 62.3
+					"percent": 62.3,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -4581,7 +5046,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 238269,
-					"percent": 35.54
+					"percent": 35.54,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -4590,7 +5056,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 6302,
-					"percent": 0.94
+					"percent": 0.94,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -4599,7 +5066,8 @@
 					"nameLast": "Stein",
 					"party": "MTP",
 					"votes": 4406,
-					"percent": 0.66
+					"percent": 0.66,
+					"win": false
 				},
 				{
 					"feicd": "P20002424",
@@ -4608,7 +5076,8 @@
 					"nameLast": "Terry",
 					"party": "NPA",
 					"votes": 3806,
-					"percent": 0.57
+					"percent": 0.57,
+					"win": false
 				}
 			]
 		},
@@ -4625,7 +5094,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 1620985,
-					"percent": 52.83
+					"percent": 52.83,
+					"win": true
 				},
 				{
 					"feicd": "P80003353",
@@ -4634,7 +5104,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 1407966,
-					"percent": 45.89
+					"percent": 45.89,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -4643,7 +5114,8 @@
 					"nameLast": "Johnson",
 					"party": "IND",
 					"votes": 20439,
-					"percent": 0.67
+					"percent": 0.67,
+					"win": false
 				},
 				{
 					"feicd": "P20003984",
@@ -4652,7 +5124,8 @@
 					"nameLast": "Stein",
 					"party": "IND",
 					"votes": 7665,
-					"percent": 0.25
+					"percent": 0.25,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -4661,7 +5134,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 5170,
-					"percent": 0.17
+					"percent": 0.17,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -4670,7 +5144,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 4930,
-					"percent": 0.16
+					"percent": 0.16,
+					"win": false
 				},
 				{
 					"feicd": "P20004677",
@@ -4679,7 +5154,8 @@
 					"nameLast": "White",
 					"party": "IND",
 					"votes": 553,
-					"percent": 0.02
+					"percent": 0.02,
+					"win": false
 				},
 				{
 					"feicd": "P80005572",
@@ -4688,7 +5164,8 @@
 					"nameLast": "La Riva",
 					"party": "IND",
 					"votes": 526,
-					"percent": 0.02
+					"percent": 0.02,
+					"win": false
 				},
 				{
 					"feicd": "P20004263",
@@ -4697,7 +5174,8 @@
 					"nameLast": "Anderson",
 					"party": "W",
 					"votes": 112,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				},
 				{
 					"feicd": "P20002804",
@@ -4706,7 +5184,8 @@
 					"nameLast": "Barr",
 					"party": "W",
 					"votes": 88,
-					"percent": 0
+					"percent": 0,
+					"win": false
 				}
 			]
 		},
@@ -4723,7 +5202,8 @@
 					"nameLast": "Romney",
 					"party": "R",
 					"votes": 170962,
-					"percent": 68.64
+					"percent": 68.64,
+					"win": true
 				},
 				{
 					"feicd": "P80003338",
@@ -4732,7 +5212,8 @@
 					"nameLast": "Obama",
 					"party": "D",
 					"votes": 69286,
-					"percent": 27.82
+					"percent": 27.82,
+					"win": false
 				},
 				{
 					"feicd": "P20002671",
@@ -4741,7 +5222,8 @@
 					"nameLast": "Johnson",
 					"party": "LIB",
 					"votes": 5326,
-					"percent": 2.14
+					"percent": 2.14,
+					"win": false
 				},
 				{
 					"feicd": "n/a",
@@ -4750,7 +5232,8 @@
 					"nameLast": "Scattered",
 					"party": "W",
 					"votes": 2035,
-					"percent": 0.82
+					"percent": 0.82,
+					"win": false
 				},
 				{
 					"feicd": "P20004685",
@@ -4759,7 +5242,8 @@
 					"nameLast": "Goode",
 					"party": "CON",
 					"votes": 1452,
-					"percent": 0.58
+					"percent": 0.58,
+					"win": false
 				}
 			]
 		}
