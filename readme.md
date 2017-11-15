@@ -17,6 +17,7 @@ var Election = new ElectionData();
 Election.candidates();
 ```
 Returns a list of all candidates listed on at least one state ballot (i.e., no write-ins).
+
 ### .states(state)
 `state` string | array
 ```js
